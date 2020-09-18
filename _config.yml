@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lantao Yu"
-  avatar           : "lantaoyu.jpg"
-  bio              : "Ph.D. student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  name             : "Eduard Marin"
+  avatar           :
+  bio              : "Researcher at Telefonica Research"
+  location         : "Barcelona, Spain"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@cs.stanford.edu"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=UzyOlhgAAAAJ&hl=en"
+  email            : "eduard.marinfabregas@telefonica.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LantaoYu"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
