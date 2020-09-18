@@ -35,7 +35,7 @@ ACM Conference on Data and Application Security and Privacy <b>(CODASPY 2018)</b
 
 <br>
 <b>[Privacy-Preserving Device Tracking System Using a Low-Power Wide-Area Network](https://link.springer.com/chapter/10.1007/978-3-030-02641-7_16)</b> <br>
-T. Ashur, J. Delvaux, S. Lee, P. Maene, E. Marin, S. Nikova, O. Reparaz, V. Rozic, D. Singelée, B. Yang and B. Preneel.
+T. Ashur, J. Delvaux, S. Lee, P. Maene, <b>E. Marin</b>, S. Nikova, O. Reparaz, V. Rozic, D. Singelée, B. Yang and B. Preneel.
 International Conference on Cryptology and Network Security <b>(CANS 2017)</b> (acceptance rate: 27%).
 
 
