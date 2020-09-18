@@ -24,7 +24,10 @@ redirect_from:
 
 
 # Recent News
-* May 1, 2020. I have joined Telefonica Research as a Researcher!
+
+* May, 2020. I have joined Telefonica Research as a Researcher!
+* May, 2020. Our work "Remote monitoring of cardiac implanted electronic devices – legal requirements and ethical principles ESC REGULATORY AFFAIRS / EHRA JOINT TASK FORCE REPORT" has been accepted to EP Europace 2020. This paper is the result of a collaboration with the European Society of Cardiology (ESC)
+
 
 # Academic Services
 * PC member: CLOUD S&P 2020 (co-located with ACNS’20)
