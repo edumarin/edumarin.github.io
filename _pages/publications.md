@@ -6,17 +6,17 @@ author_profile: true
 <br>
 <b>[Remote monitoring of cardiac implanted electronic devices – legal requirements and ethical principles ESC REGULATORY AFFAIRS / EHRA JOINT TASK FORCE REPORT](https://academic.oup.com/europace/advance-article/doi/10.1093/europace/euaa168/5877304)</b> <br>
 J. Cosedis , J. Kautzner, R. Casado-Arroyo, H. Burri, S. Callens, M. R Cowie, K. Dickstein, I. Drossart, G. Geneste, Z. Erkin, F. Hyafil, A. Kraus, V. Kutyifa, <b>E. Marin</b>, C. Schulze, D. Slotwiner, K. Stein, S. Zanero, H. Heidbuchel and A. G Fraser.
-<b>EP Europace 2020 (IF: 6.1)</b>.
+<b>EP Europace 2020</b> (Impact factor: 6.1).
 
 
 <b>[An In-depth Look Into SDN Topology Discovery Mechanisms: Novel Attacks and Practical Countermeasures](https://dl.acm.org/doi/10.1145/3319535.3354194)</b> <br>
 <b>E. Marin</b>, N. Bucciol and M. Conti.
-ACM Conference on Computer and Communications Security <b>(CCS 2019) (acceptance rate: 16%)</b>.
+ACM Conference on Computer and Communications Security <b>(CCS 2019)</b> (acceptance rate: 16%).
 
 <br>
 <b>[A Tale of Two Worlds: Assessing the Vulnerability of Enclave Shielding Runtimes](https://dl.acm.org/doi/10.1145/3319535.3363206)</b> <br>
-<b>J. Van Bulck, D. Oswald, E. Marin</b>, A. Aldoseri, F. D. Garcia and F. Piessens.
-<b>ACM Conference on Computer and Communications Security (CCS 2019) (acceptance rate: 16%)</b>.
+J. Van Bulck, D. Oswald, <b>E. Marin</b>, A. Aldoseri, F. D. Garcia and F. Piessens.
+ACM Conference on Computer and Communications Security <b>(CCS 2019)</b> (acceptance rate: 16%).
 
 <br>
 <b>[On the Difficulty of Using Patient's Physiological Signals in Cryptographic Protocols](https://dl.acm.org/doi/10.1145/3319535.3354194)</b> <br>
