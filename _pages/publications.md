@@ -1,34 +1,35 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.co.uk/citations?user=UzyOlhgAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br> 
-Tianhe Yu\*, Garrett Thomas\*, <b>Lantao Yu</b>, Stefano Ermon, James Zou, Sergey Levine, Chelsea Finn, Tengyu Ma.
-<i>ArXiv 2020</i>.
+<b>[Remote monitoring of cardiac implanted electronic devices – legal requirements and ethical principles ESC REGULATORY AFFAIRS / EHRA JOINT TASK FORCE REPORT](https://academic.oup.com/europace/advance-article/doi/10.1093/europace/euaa168/5877304)</b> <br>
+J. Cosedis , J. Kautzner, R. Casado-Arroyo, H. Burri, S. Callens, M. R Cowie, K. Dickstein, I. Drossart, G. Geneste, Z. Erkin, F. Hyafil, A. Kraus, V. Kutyifa, <b>E. Marin</b>, C. Schulze, D. Slotwiner, K. Stein, S. Zanero, H. Heidbuchel and A. G Fraser
+<i>EP Europace 2020 (IF: 6.1)</i>.
 
-<b>[Training Deep Energy-Based Models with f-Divergence Minimization](http://lantaoyu.com/publications/fEBM)</b> <br> 
+
+<b>[Training Deep Energy-Based Models with f-Divergence Minimization](http://lantaoyu.com/publications/fEBM)</b> <br>
 <b>Lantao Yu</b>, Yang Song, Jiaming Song, Stefano Ermon.
 <i>The 37th International Conference on Machine Learning</i>. <b>ICML 2020</b>.
 
-<b>[Improving Unsupervised Domain Adaptation with Variational Information Bottleneck](http://lantaoyu.com/publications/VBDA)</b> <br> 
+<b>[Improving Unsupervised Domain Adaptation with Variational Information Bottleneck](http://lantaoyu.com/publications/VBDA)</b> <br>
 Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu.
 <i>The 24th European Conference on Artificial Intelligence</i>. <b>ECAI 2020</b>.
 
-<b>[Improving Maximum Likelihood Training for Text Generation with Density Ratio Estimation](http://lantaoyu.com/publications/TextDR)</b> <br> 
+<b>[Improving Maximum Likelihood Training for Text Generation with Density Ratio Estimation](http://lantaoyu.com/publications/TextDR)</b> <br>
 Yuxuan Song, Ning Miao, Hao Zhou, <b>Lantao Yu</b>, Mingxuan Wang, Lei Li.
 <i>The 23rd International Conference on Artificial Intelligence and Statistics</i>. <b>AISTATS 2020</b>.
 
-<b>[Infomax Neural Joint Source-Channel Coding via Adversarial Bit Flip](http://lantaoyu.com/publications/IABF)</b> <br> 
+<b>[Infomax Neural Joint Source-Channel Coding via Adversarial Bit Flip](http://lantaoyu.com/publications/IABF)</b> <br>
 Yuxuan Song, Minkai Xu, <b>Lantao Yu</b>, Hao Zhou, Shuo Shao, Yong Yu.
 <i>The 34th AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020</b>.
 
-<b>[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://lantaoyu.com/publications/MetaIRL)</b> <br> 
+<b>[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://lantaoyu.com/publications/MetaIRL)</b> <br>
 <b>Lantao Yu</b>\*, Tianhe Yu\*, Chelsea Finn, Stefano Ermon.
 <i>The 33rd Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.
 
-<b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
+<b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br>
 <b>Lantao Yu</b>, Jiaming Song, Stefano Ermon.
 <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>. <b><span style="color:red">(Long Oral)</span></b>
 
