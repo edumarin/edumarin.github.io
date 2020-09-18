@@ -14,13 +14,13 @@ redirect_from:
 
 # About Me
 
-* I am a Researcher at [Telefonica Research](https://www.telefonica.com/en/web/innovation/core-innovation/research) in Barcelona, Spain. I am working on a H2020 project entitled [Adaptive edge/cloud compute and network continuum over a heterogeneous sparse edge infrastructure to support nextgen applications](https://cordis.europa.eu/project/id/871793).
+* I am a Researcher at [Telefonica Research](https://www.telefonica.com/en/web/innovation/core-innovation/research) in Barcelona, Spain. 
 
-* My research interests lie in the areas of Networks, Security and Trusted Computing. Currently, my work focuses on the security of new networking and computing paradigms such as Software Defined Networking (SDN), Network Function Virtualisation (NFV), Information-Centric Networking (ICN), Edge Computing, Containers or Serverless Computing.
+* My research interests lie in the areas of Networks, Security and Trusted Computing. Currently, my work focuses on the security of new networking and computing paradigms such as Software Defined Networking (SDN), Network Function Virtualisation (NFV), Information-Centric Networking (ICN), Edge Computing, Containers or Serverless Computing
 
-* In 2018, I obtained a PhD degree from the [COSIC research group] (https://www.esat.kuleuven.be/cosic/) (KU Leuven, Belgium) under the supervision of Prof Bart Preneel and Dr Dave Singelée. My doctoral thesis is entitled [Security and Privacy of Implantable Medical Devices](https://www.esat.kuleuven.be/cosic/publications/thesis-302.pdf).
+* In 2018, I obtained a PhD degree from the [COSIC research group] (https://www.esat.kuleuven.be/cosic/) (KU Leuven, Belgium) under the supervision of Prof Bart Preneel and Dr Dave Singelée. My doctoral thesis is entitled [Security and Privacy of Implantable Medical Devices](https://www.esat.kuleuven.be/cosic/publications/thesis-302.pdf)
 
-* In the past I graduated as a Telecommunications Engineer at the Universitat Politècnica de Catalunya (UPC) (Spain) with the master thesis [Security analysis of an implantable cardioverter defibrillator](https://www.esat.kuleuven.be/cosic/publications/thesis-231.pdf) developed at COSIC within the ERASMUS framework. After obtaining my PhD, I was a visiting research fellow in the SPRITZ Security and Privacy group at the University of Padua (Italy) and a research fellow in the Security and Privacy research group at the University of Birmingham (UK).
+* In the past I graduated as a Telecommunications Engineer at the Universitat Politècnica de Catalunya (UPC) (Spain) with the master thesis [Security analysis of an implantable cardioverter defibrillator](https://www.esat.kuleuven.be/cosic/publications/thesis-231.pdf) developed at COSIC within the ERASMUS framework. After obtaining my PhD, I was a visiting research fellow in the SPRITZ Security and Privacy group at the University of Padua (Italy) and a research fellow in the Security and Privacy research group at the University of Birmingham (UK)
 
 
 # Recent News
