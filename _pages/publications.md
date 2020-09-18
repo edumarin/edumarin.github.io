@@ -8,7 +8,7 @@ author_profile: true
 J. Cosedis , J. Kautzner, R. Casado-Arroyo, H. Burri, S. Callens, M. R Cowie, K. Dickstein, I. Drossart, G. Geneste, Z. Erkin, F. Hyafil, A. Kraus, V. Kutyifa, <b>E. Marin</b>, C. Schulze, D. Slotwiner, K. Stein, S. Zanero, H. Heidbuchel and A. G Fraser.
 <b>EP Europace 2020</b> (Impact factor: 6.1).
 
-
+<br>
 <b>[An In-depth Look Into SDN Topology Discovery Mechanisms: Novel Attacks and Practical Countermeasures](https://dl.acm.org/doi/10.1145/3319535.3354194)</b> <br>
 <b>E. Marin</b>, N. Bucciol and M. Conti.
 ACM Conference on Computer and Communications Security <b>(CCS 2019)</b> (acceptance rate: 16%).
@@ -21,12 +21,12 @@ ACM Conference on Computer and Communications Security <b>(CCS 2019)</b> (accept
 <br>
 <b>[On the Difficulty of Using Patient's Physiological Signals in Cryptographic Protocols](https://dl.acm.org/doi/10.1145/3319535.3354194)</b> <br>
 <b>E. Marin</b>, E. Argones Rúa, D. Singelée and B. Preneel.
-<b>ACM Symposium on Access Control Models and Technologies (SACMAT 2019) (acceptance rate: 23%)</b>.
+ACM Symposium on Access Control Models and Technologies <b>(SACMAT 2019)</b> (acceptance rate: 23%).
 
 <br>
 <b>[Fast, Furious and Insecure: Passive Keyless Entry and Start Systems in Modern Supercars](https://dl.acm.org/doi/10.1145/3319535.3354194)</b> <br>
-<b>L. Wouters, E. Marin</b>, T. Ashur, B. Gierlichs and B. Preneel.
-<b>Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2019) </b>.
+L. Wouters, <b>E. Marin</b>, T. Ashur, B. Gierlichs and B. Preneel.
+Transactions on Cryptographic Hardware and Embedded Systems <b>(TCHES 2019)</b>.
 
 
 
