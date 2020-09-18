@@ -14,7 +14,7 @@ redirect_from:
 
 # About Me
 
-* I am a Researcher at Telefonica Research in Barcelona, Spain.
+* I am a Researcher at [Telefonica Research](https://www.telefonica.com/en/web/innovation/core-innovation/research) in Barcelona, Spain.
 
 * My research interests lie in the areas of Networks, Security and Trusted Computing. Currently, I am very interested in the security of new networking and computing paradigms such as Software Defined Networking (SDN), Network Function Virtualisation (NFV), Information-Centric Networking (ICN), Edge Computing, Containers or Serverless Computing.
 
