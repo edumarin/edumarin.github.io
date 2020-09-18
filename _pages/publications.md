@@ -19,14 +19,25 @@ J. Van Bulck, D. Oswald, <b>E. Marin</b>, A. Aldoseri, F. D. Garcia and F. Piess
 ACM Conference on Computer and Communications Security <b>(CCS 2019)</b> (acceptance rate: 16%).
 
 <br>
-<b>[On the Difficulty of Using Patient's Physiological Signals in Cryptographic Protocols](https://dl.acm.org/doi/10.1145/3319535.3354194)</b> <br>
+<b>[On the Difficulty of Using Patient's Physiological Signals in Cryptographic Protocols](https://dl.acm.org/doi/abs/10.1145/3322431.3325099)</b> <br>
 <b>E. Marin</b>, E. Argones Rúa, D. Singelée and B. Preneel.
 ACM Symposium on Access Control Models and Technologies <b>(SACMAT 2019)</b> (acceptance rate: 23%).
 
 <br>
-<b>[Fast, Furious and Insecure: Passive Keyless Entry and Start Systems in Modern Supercars](https://dl.acm.org/doi/10.1145/3319535.3354194)</b> <br>
+<b>[Fast, Furious and Insecure: Passive Keyless Entry and Start Systems in Modern Supercars](https://tches.iacr.org/index.php/TCHES/article/view/8289)</b> <br>
 L. Wouters, <b>E. Marin</b>, T. Ashur, B. Gierlichs and B. Preneel.
 Transactions on Cryptographic Hardware and Embedded Systems <b>(TCHES 2019)</b>.
+
+<br>
+<b>[Securing Wireless Neurostimulators](https://dl.acm.org/doi/10.1145/3176258.3176310)</b> <br>
+<b>E. Marin</b>, D. Singelée, B. Yang, V. Volskiy, G. Vandenbosch, B. Nuttin and B. Preneel.
+ACM Conference on Data and Application Security and Privacy <b>(CODASPY 2018)</b> (acceptance rate: 21%).
+
+<br>
+<b>[Privacy-Preserving Device Tracking System Using a Low-Power Wide-Area Network](https://link.springer.com/chapter/10.1007/978-3-030-02641-7_16)</b> <br>
+T. Ashur, J. Delvaux, S. Lee, P. Maene, E. Marin, S. Nikova, O. Reparaz, V. Rozic, D. Singelée, B. Yang and B. Preneel.
+International Conference on Cryptology and Network Security <b>(CANS 2017)</b> (acceptance rate: 27%).
+
 
 
 
