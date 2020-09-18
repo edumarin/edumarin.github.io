@@ -16,17 +16,17 @@ redirect_from:
 
 * I am a Researcher at [Telefonica Research](https://www.telefonica.com/en/web/innovation/core-innovation/research) in Barcelona, Spain.
 
-* My research interests lie in the areas of Networks, Security and Trusted Computing. Currently, I am very interested in the security of new networking and computing paradigms such as Software Defined Networking (SDN), Network Function Virtualisation (NFV), Information-Centric Networking (ICN), Edge Computing, Containers or Serverless Computing.
+* My research interests lie in the areas of Networks, Security and Trusted Computing. Currently, my work focuses on the security of new networking and computing paradigms such as Software Defined Networking (SDN), Network Function Virtualisation (NFV), Information-Centric Networking (ICN), Edge Computing, Containers or Serverless Computing.
 
-* In 2018, I obtained a PhD degree from the COSIC research group (KU Leuven, Belgium) under the supervision of Prof Bart Preneel and Dr Dave Singelée. My doctoral thesis is entitled 'Security and Privacy of Implantable Medical Devices'.
+* In 2018, I obtained a PhD degree from the [COSIC research group] (https://www.esat.kuleuven.be/cosic/) (KU Leuven, Belgium) under the supervision of Prof Bart Preneel and Dr Dave Singelée. My doctoral thesis is entitled ["Security and Privacy of Implantable Medical Devices"](https://www.esat.kuleuven.be/cosic/publications/thesis-302.pdf).
 
-* In the past I graduated as a Telecommunications Engineer at the Universitat Politècnica de Catalunya (UPC) in Barcelona (Spain) with the master thesis 'Security analysis of an implantable cardioverter defibrillator' developed at COSIC within the ERASMUS framework. After obtaining my PhD, I was a visiting research fellow in the SPRITZ Security and Privacy group at the University of Padua (Italy) and a research fellow in the Security and Privacy research group at the University of Birmingham (UK).
-
+* In the past I graduated as a Telecommunications Engineer at the Universitat Politècnica de Catalunya (UPC) (Spain) with the master thesis ["Security analysis of an implantable cardioverter defibrillator"](https://www.esat.kuleuven.be/cosic/publications/thesis-231.pdf) developed at COSIC within the ERASMUS framework. After obtaining my PhD, I was a visiting research fellow in the SPRITZ Security and Privacy group at the University of Padua (Italy) and a research fellow in the Security and Privacy research group at the University of Birmingham (UK).
 
 
 # Recent News
-* September 3, 2019. One paper accepted to NeurIPS 2019.
+* May 1, 2020. I have joined Telefonica Research as a Researcher!
 
 # Academic Services
-* Conference Reviewer: AAAI 2019, AAAI 2020, ICML 2020 (top reviewer award), NeurIPS 2020, AAAI 2021, ICLR 2021, AISTATS 2021.
-* Journal Reviewer: Journal of Artificial Intelligence Research (JAIR)
+* PC member: CLOUD S&P 2020 (co-located with ACNS’20)
+* Conference Reviewer: INFOCOM 2020 (x2), IEEE NFV-SDN 2020 and 2019, ICICS 2020, ASHES 2019, ESORICS 2019 (x3), IEEE TrustCom 2019, Euro S&P 2018, WISTP 2018 and 2016, GIIS 2018, IEEE MASS 2018, ASHES 2017, DAC 2016, AsiaCCS 2016, Eurocrypt 2016 and Space 2014.
+* Journal Reviewer: IEEE Communications Surveys & Tutorials, IEEE Transactions on Services Computing, Computer Networks, Journal of Computer Security, Concurrency and Computation: Practice and Experience, IEEE Transactions on Information Forensics and Security, Computers & Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Network and Service Management, Expert Review of Medical Devices, Security and Communication Networks, IEEE Journal of Biomedical and Health Informatics, and Sensors
