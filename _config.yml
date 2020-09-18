@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lantao Yu"
+title                    : "Eduard Marin"
 title_separator          : "-"
-name                     : &name "Lantao Yu"
-description              : &description "Ph.D. student, Computer Science Department, Stanford University"
+name                     : &name "Eduard Marin"
+description              : &description "Researcher, Telefonica Research"
 url                      : https://edumarin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "edumarin.github.io"
