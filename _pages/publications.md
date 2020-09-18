@@ -15,7 +15,7 @@ J. Cosedis , J. Kautzner, R. Casado-Arroyo, H. Burri, S. Callens, M. R Cowie, K.
 
 <br>
 <b>[A Tale of Two Worlds: Assessing the Vulnerability of Enclave Shielding Runtimes](https://dl.acm.org/doi/10.1145/3319535.3363206)</b> <br>
-<b>J. Van Bulck, D. Oswald, <b>E. Marin</b>, A. Aldoseri, F. D. Garcia and F. Piessens.
+<b>J. Van Bulck, D. Oswald, E. Marin</b>, A. Aldoseri, F. D. Garcia and F. Piessens.
 <b>ACM Conference on Computer and Communications Security (CCS 2019) (acceptance rate: 16%)</b>.
 
 <br>
@@ -25,7 +25,7 @@ J. Cosedis , J. Kautzner, R. Casado-Arroyo, H. Burri, S. Callens, M. R Cowie, K.
 
 <br>
 <b>[Fast, Furious and Insecure: Passive Keyless Entry and Start Systems in Modern Supercars](https://dl.acm.org/doi/10.1145/3319535.3354194)</b> <br>
-<b>L. Wouters, <b>E. Marin</b>, T. Ashur, B. Gierlichs and B. Preneel.
+<b>L. Wouters, E. Marin</b>, T. Ashur, B. Gierlichs and B. Preneel.
 <b>Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2019) </b>.
 
 
