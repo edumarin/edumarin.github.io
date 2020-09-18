@@ -5,8 +5,8 @@ author_profile: true
 ---
 <br>
 <b>[Remote monitoring of cardiac implanted electronic devices – legal requirements and ethical principles ESC REGULATORY AFFAIRS / EHRA JOINT TASK FORCE REPORT](https://academic.oup.com/europace/advance-article/doi/10.1093/europace/euaa168/5877304)</b> <br>
-J. Cosedis , J. Kautzner, R. Casado-Arroyo, H. Burri, S. Callens, M. R Cowie, K. Dickstein, I. Drossart, G. Geneste, Z. Erkin, F. Hyafil, A. Kraus, V. Kutyifa, <b>E. Marin</b>, C. Schulze, D. Slotwiner, K. Stein, S. Zanero, H. Heidbuchel and A. G Fraser
-<i>EP Europace 2020 (IF: 6.1)</i>.
+J. Cosedis , J. Kautzner, R. Casado-Arroyo, H. Burri, S. Callens, M. R Cowie, K. Dickstein, I. Drossart, G. Geneste, Z. Erkin, F. Hyafil, A. Kraus, V. Kutyifa, <b>E. Marin</b>, C. Schulze, D. Slotwiner, K. Stein, S. Zanero, H. Heidbuchel and A. G Fraser.
+<i><b>EP Europace 2020 (IF: 6.1)</b></i>.
 
 
 <b>[Training Deep Energy-Based Models with f-Divergence Minimization](http://lantaoyu.com/publications/fEBM)</b> <br>
