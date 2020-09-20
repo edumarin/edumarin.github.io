@@ -79,4 +79,4 @@ ACM Conference on Data and Application Security and Privacy <b>(CODASPY 2016)</b
 International Conference on Ad Hoc Networks and Wireless <b>(ADHOC-NOW 2016)</b> (acceptance rate: 37%).
 
 
-[(+) The authors contributed equally to this work and share first authorship]
+[+ The authors contributed equally to this work and share first authorship]
