@@ -26,12 +26,12 @@ ACM Symposium on Access Control Models and Technologies <b>(SACMAT 2019)</b> (ac
 <br>
 <b>[Fast, Furious and Insecure: Passive Keyless Entry and Start Systems in Modern Supercars](https://tches.iacr.org/index.php/TCHES/article/view/8289)</b> <br>
 L. Wouters, <b>E. Marin</b>, T. Ashur, B. Gierlichs and B. Preneel.
-Transactions on Cryptographic Hardware and Embedded Systems <b>(TCHES 2019)</b>.
+Transactions on Cryptographic Hardware and Embedded Systems <b>(TCHES 2019)</b> ([Site](https://www.esat.kuleuven.be/cosic/passive-keyless-entry/)).
 
 <br>
 <b>[Securing Wireless Neurostimulators](https://dl.acm.org/doi/10.1145/3176258.3176310)</b> <br>
 <b>E. Marin</b>, D. Singelée, B. Yang, V. Volskiy, G. Vandenbosch, B. Nuttin and B. Preneel.
-ACM Conference on Data and Application Security and Privacy <b>(CODASPY 2018)</b> (acceptance rate: 21%).
+ACM Conference on Data and Application Security and Privacy <b>(CODASPY 2018)</b> (acceptance rate: 21%, [The Morning Paper](https://blog.acolyer.org/2018/04/17/securing-wireless-neurostimulators/), [The Register](https://www.theregister.com/2018/04/18/boffins_break_into_brain_implant/)).
 
 <br>
 <b>[Fast, Furious and Insecure: Passive Keyless Entry and Start Systems in Modern Supercars](https://autosec.se/wp-content/uploads/2019/02/ESCAR-Europe-2018-Summary.pdf)</b> <br>
