@@ -35,17 +35,17 @@ ACM Conference on Data and Application Security and Privacy <b>(CODASPY 2018)</b
 
 <br>
 <b>[Fast, Furious and Insecure: Passive Keyless Entry and Start Systems in Modern Supercars](https://autosec.se/wp-content/uploads/2019/02/ESCAR-Europe-2018-Summary.pdf)</b> <br>
-L. Wouters, <b>E. Marin</b>, T. Ashur, B. Gierlichs, and B. Preneel
+L. Wouters, <b>E. Marin</b>, T. Ashur, B. Gierlichs and B. Preneel
 Embedded security in cars <b>(ESCAR EU 2018)</b>.
 
 <br>
 <b>[Poster: Fast, Furious and Insecure: Passive Keyless Entry and Start Systems in Modern Supercars](https://autosec.se/wp-content/uploads/2019/02/ESCAR-Europe-2018-Summary.pdf)</b> <br>
-L. Wouters, <b>E. Marin</b>, T. Ashur, B. Gierlichs, and B. Preneel
+L. Wouters, <b>E. Marin</b>, T. Ashur, B. Gierlichs and B. Preneel
 Workshop on Cryptographic Hardware and Embedded Systems <b>(CHES 2018)</b>.
 
 <br>
 <b>[De-pseudonymization of Smart Metering Data: Analysis and Countermeasures](https://ieeexplore.ieee.org/document/8534430)</b> <br>
-S. Cleemput, M. Mustafa, E. Marin and B. Preneel
+S. Cleemput, M. Mustafa, <b>E. Marin</b> and B. Preneel
 Workshop on Industrial Internet of Things Security <b>(WIIoTS 2018)</b>.
 
 <br>
