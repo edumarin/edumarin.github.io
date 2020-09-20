@@ -50,12 +50,12 @@ Workshop on Industrial Internet of Things Security <b>(WIIoTS 2018)</b>.
 
 <br>
 <b>[Privacy-Preserving Device Tracking System Using a Low-Power Wide-Area Network](https://link.springer.com/chapter/10.1007/978-3-030-02641-7_16)</b> <br>
-T. Ashur, J. Delvaux, S. Lee, P. Maene, <b>E. Marin</b>, S. Nikova, O. Reparaz, V. Rozic, D. Singelée, B. Yang and B. Preneel.
+T. Ashur+, J. Delvaux+, S. Lee+, P. Maene+, <b>E. Marin+</b>, S. Nikova+, O. Reparaz+, V. Rozic+, D. Singelée+, B. Yang+ and B. Preneel+.
 International Conference on Cryptology and Network Security <b>(CANS 2017)</b> (acceptance rate: 27%).
 
 <br>
 <b>[Physical-Layer Fingerprinting of LoRa devices using Supervised and Zero-Shot Learning](https://dl.acm.org/doi/10.1145/3098243.3098267)</b> <br>
-P. Robyns, <b>E. Marin</b>, W. Lamotte, P. Quax, D. Singelée and B. Preneel.
+P. Robyns+, <b>E. Marin+</b>, W. Lamotte, P. Quax, D. Singelée and B. Preneel.
 ACM Conference on Security & Privacy in Wireless and Mobile Networks <b>(WiSec 2017)</b> (acceptance rate: 22%).
 
 <br>
@@ -65,7 +65,7 @@ ACM Annual Computer Security Applications Conference <b>(ACSAC 2016)</b> (accept
 
 <br>
 <b>[Towards quantum distance bounding protocols](https://www.springerprofessional.de/en/towards-quantum-distance-bounding-protocols/13315916)</b> <br>
-A. Abidin, <b>E. Marin</b>, D. Singelée and B. Preneel.
+A. Abidin+, <b>E. Marin+</b>, D. Singelée+ and B. Preneel+.
 Workshop on RFID Security and Privacy <b>(RFIDsec 2016)</b>.
 
 <br>
@@ -79,7 +79,4 @@ ACM Conference on Data and Application Security and Privacy <b>(CODASPY 2016)</b
 International Conference on Ad Hoc Networks and Wireless <b>(ADHOC-NOW 2016)</b> (acceptance rate: 37%).
 
 
-
-
-
-[\* denotes equal contribution]
+[(+) The authors contributed equally to this work and share first authorship]
