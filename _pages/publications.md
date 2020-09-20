@@ -75,7 +75,7 @@ ACM Conference on Data and Application Security and Privacy <b>(CODASPY 2016)</b
 
 <br>
 <b>[A Privacy-preserving Remote Healthcare System Offering End-to-End Security](https://link.springer.com/chapter/10.1007/978-3-319-40509-4_17)</b> <br>
-E. Marin, M. Mustafa, D. Singelée and B. Preneel.
+<b>E. Marin</b>, M. Mustafa, D. Singelée and B. Preneel.
 International Conference on Ad Hoc Networks and Wireless <b>(ADHOC-NOW 2016)</b> (acceptance rate: 37%).
 
 
