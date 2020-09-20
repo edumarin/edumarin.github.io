@@ -3,10 +3,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+## 2020
+
 <br>
 <b>[Remote monitoring of cardiac implanted electronic devices – legal requirements and ethical principles ESC REGULATORY AFFAIRS / EHRA JOINT TASK FORCE REPORT](https://academic.oup.com/europace/advance-article/doi/10.1093/europace/euaa168/5877304)</b> <br>
 J. Cosedis , J. Kautzner, R. Casado-Arroyo, H. Burri, S. Callens, M. R Cowie, K. Dickstein, I. Drossart, G. Geneste, Z. Erkin, F. Hyafil, A. Kraus, V. Kutyifa, <b>E. Marin</b>, C. Schulze, D. Slotwiner, K. Stein, S. Zanero, H. Heidbuchel and A. G Fraser.
 <b>EP Europace 2020</b> (Impact factor: 6.1).
+
+## 2019
 
 <br>
 <b>[An In-depth Look Into SDN Topology Discovery Mechanisms: Novel Attacks and Practical Countermeasures](https://dl.acm.org/doi/10.1145/3319535.3354194)</b> <br>
@@ -28,6 +33,8 @@ ACM Symposium on Access Control Models and Technologies <b>(SACMAT 2019)</b> (ac
 L. Wouters, <b>E. Marin</b>, T. Ashur, B. Gierlichs and B. Preneel.
 Transactions on Cryptographic Hardware and Embedded Systems <b>(TCHES 2019)</b> ([Site](https://www.esat.kuleuven.be/cosic/passive-keyless-entry/)).
 
+## 2018
+
 <br>
 <b>[Securing Wireless Neurostimulators](https://dl.acm.org/doi/10.1145/3176258.3176310)</b> <br>
 <b>E. Marin</b>, D. Singelée, B. Yang, V. Volskiy, G. Vandenbosch, B. Nuttin and B. Preneel.
@@ -48,6 +55,9 @@ Workshop on Cryptographic Hardware and Embedded Systems <b>(CHES 2018)</b>.
 S. Cleemput, M. Mustafa, <b>E. Marin</b> and B. Preneel
 Workshop on Industrial Internet of Things Security <b>(WIIoTS 2018)</b>.
 
+
+## 2017
+
 <br>
 <b>[Privacy-Preserving Device Tracking System Using a Low-Power Wide-Area Network](https://link.springer.com/chapter/10.1007/978-3-030-02641-7_16)</b> <br>
 T. Ashur+, J. Delvaux+, S. Lee+, P. Maene+, <b>E. Marin+</b>, S. Nikova+, O. Reparaz+, V. Rozic+, D. Singelée+, B. Yang+ and B. Preneel+.
@@ -57,6 +67,9 @@ International Conference on Cryptology and Network Security <b>(CANS 2017)</b> (
 <b>[Physical-Layer Fingerprinting of LoRa devices using Supervised and Zero-Shot Learning](https://dl.acm.org/doi/10.1145/3098243.3098267)</b> <br>
 P. Robyns+, <b>E. Marin+</b>, W. Lamotte, P. Quax, D. Singelée and B. Preneel.
 ACM Conference on Security & Privacy in Wireless and Mobile Networks <b>(WiSec 2017)</b> (acceptance rate: 22%).
+
+
+## 2016
 
 <br>
 <b>[On the (in)security of the Latest Generation Implantable Cardiac Defibrillators](https://dl.acm.org/doi/10.1145/2991079.2991094)</b> <br>
