@@ -14,9 +14,9 @@ redirect_from:
 
 # About Me
 
-* I am a Researcher at [Telefonica Research](https://www.telefonica.com/en/web/innovation/core-innovation/research) in Barcelona, Spain. 
+I am a Researcher at [Telefonica Research](https://www.telefonica.com/en/web/innovation/core-innovation/research) in Barcelona, Spain.
 
-* My research interests lie in the areas of Networks, Security and Trusted Computing. Currently, my work focuses on the security of new networking and computing paradigms such as Software Defined Networking (SDN), Network Function Virtualisation (NFV), Information-Centric Networking (ICN), Edge Computing, Containers or Serverless Computing
+My research interests lie in the areas of Networks, Security and Trusted Computing. Currently, my work focuses on the security of new networking and computing paradigms such as Software Defined Networking (SDN), Network Function Virtualisation (NFV), Information-Centric Networking (ICN), Edge Computing, Containers or Serverless Computing
 
 * In 2018, I obtained a PhD degree from the [COSIC research group] (https://www.esat.kuleuven.be/cosic/) (KU Leuven, Belgium) under the supervision of Prof Bart Preneel and Dr Dave Singelée. My doctoral thesis is entitled [Security and Privacy of Implantable Medical Devices](https://www.esat.kuleuven.be/cosic/publications/thesis-302.pdf)
 
