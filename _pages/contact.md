@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 Telefonica Research<br>
-Plaça d'Ernest Lluch i Martin 5
+Plaça d'Ernest Lluch i Martin 5<br>
 08019 Barcelona (Spain)
 
 
