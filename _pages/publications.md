@@ -6,7 +6,7 @@ author_profile: true
 
 
 <br>
-<b>[Software Defined Networking (SDN) Privacy]()</b> <br>
+<b>[Software Defined Networking Privacy]()</b> <br>
 <b>E. Marin</b> and D. Perino.
 To appear in 3rd edition of Encyclopedia of Cryptography, Security and Privacy (2021).
 
