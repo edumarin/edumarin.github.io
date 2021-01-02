@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 
+<br>
+<b>[Software Defined Networking (SDN) Privacy]()</b> <br>
+<b>E. Marin</b> and D. Perino.
+To appear in 3rd edition of Encyclopedia of Cryptography, Security and Privacy (2021).
+
 
 <br>
 <b>[Remote monitoring of cardiac implanted electronic devices – legal requirements and ethical principles ESC REGULATORY AFFAIRS / EHRA JOINT TASK FORCE REPORT](https://academic.oup.com/europace/advance-article/doi/10.1093/europace/euaa168/5877304)</b> <br>
