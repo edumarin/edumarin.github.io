@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<br>
+<b>[PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments]()</b> <br>
+F. Mo, H. Haddadi, K. Katevas, <b>E. Marin</b>, D. Perino and N. Kourtellis.
+ACM International Conference on Mobile Systems, Applications, and Services <b>(MobiSys 2021)</b>.
+
 
 <br>
 <b>[Software Defined Networking Privacy]()</b> <br>

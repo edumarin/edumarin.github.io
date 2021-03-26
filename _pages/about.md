@@ -16,7 +16,7 @@ redirect_from:
 
 I am a Researcher at [Telefonica Research](https://www.telefonica.com/en/web/innovation/core-innovation/research) in Barcelona, Spain.
 
-My research interests lie in the areas of Networks and Security. Currently, my work focuses on the security of new networking and computing paradigms such as Software Defined Networking (SDN), Network Function Virtualisation (NFV), Information-Centric Networking (ICN), Edge Computing, Containers or Serverless Computing.
+My research interests lie in the areas of Networks and Security. Currently, my work focuses on the security of new networking and computing paradigms such as Software Defined Networking (SDN), P4, Network Function Virtualisation (NFV), Edge Computing, Containers or Serverless Computing.
 
 In 2018, I obtained a PhD degree from the [COSIC research group](https://www.esat.kuleuven.be/cosic/) (KU Leuven, Belgium) under the supervision of Prof Bart Preneel and Dr Dave Singelée. My doctoral thesis is entitled [Security and Privacy of Implantable Medical Devices](https://www.esat.kuleuven.be/cosic/publications/thesis-302.pdf).
 
@@ -25,12 +25,16 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 # Recent News
 
+* Mar, 2021. Our work "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments" has been accepted at ACM MobiSys 2021
+* Feb, 2021. We are organising the [1st Workshop on Mobile Serverless (MobileServerless)](https://www.it.uc3m.es/mbsvless21/), co-located with ACM MobiSys 2021 in a virtual (on-line) format. Please consider submitting your work.
+* Dec, 2020. Diego Perino and I wrote an article entitled "Software Defined Networking privacy" for the (3rd) edition of Encyclopedia of Cryptography, Security, and Privacy. Stay tuned!
+* May, 2020. Our work "Remote monitoring of cardiac implanted electronic devices – legal requirements and ethical principles ESC REGULATORY AFFAIRS / EHRA JOINT TASK FORCE REPORT" has been accepted at EP Europace 2020. This paper is the result of a collaboration with the European Society of Cardiology (ESC).
 * May, 2020. I have joined Telefonica Research as a Researcher!
-* May, 2020. Our work "Remote monitoring of cardiac implanted electronic devices – legal requirements and ethical principles ESC REGULATORY AFFAIRS / EHRA JOINT TASK FORCE REPORT" has been accepted to EP Europace 2020. This paper is the result of a collaboration with the European Society of Cardiology (ESC).
 
 
 # Talks
 
+* "A first look at the security of serverless applications" Cloud NativeSecurity Day Europe 2021, (Virtual event)"
 * "The security of modern networks: the case of Software-Defined Networks", Invited talk for the Computer and Network Security course at University of Padua, (Virtual event), 4 Nov 2020
 * "The (in)security of implantable medical devices", Invited talk for the CIF Seminars interdisciplinary seminars at KU Leuven, (Virtual event), 17 July 2020
 * "Introduction to Software-Defined Networking and its security challenges", Invited talk for the "Computer and Network Security: Advanced Topics" course at TU Delft, (Virtual event), 20 May 2020
@@ -54,6 +58,9 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 
 # Academic Services
-* PC member: PAM 2021, CLOUD S&P 2020 (co-located with ACNS’20)
+* PC chair: MobileServerless’21
+* PC member: Security and Privacy for Mobile AI’21 (co-located with MobiSys), PAM’21 and CLOUD S&P’21 and 20 (co-located with ACNS)
+
+
 * Conference Reviewer: Euro S&P 2020 and 2018, INFOCOM 2020 (x2), IEEE NFV-SDN 2020 and 2019, ICICS 2020, ASHES 2019 and 2017, ESORICS 2019 (x3), IEEE TrustCom 2019, WISTP 2018 and 2016, GIIS 2018, IEEE MASS 2018, DAC 2016, AsiaCCS 2016, Eurocrypt 2016 and Space 2014.
 * Journal Reviewer: IEEE Communications Surveys & Tutorials, IEEE Transactions on Services Computing, Computer Networks, Journal of Computer Security, Concurrency and Computation: Practice and Experience, IEEE Transactions on Information Forensics and Security, Computers & Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Network and Service Management, Expert Review of Medical Devices, Security and Communication Networks, IEEE Journal of Biomedical and Health Informatics, and Sensors
