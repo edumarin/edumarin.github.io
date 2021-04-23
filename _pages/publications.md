@@ -5,6 +5,12 @@ author_profile: true
 ---
 
 <br>
+<b>[Inter-operability and Orchestration in HeterogeneousCloud/Edge Resources: the ACCORDION vision]()</b> <br>
+I. Korontanis, K. Tserpes, M. Pateraki, L. Blasi, J. Violos, F. Diego, <b>E. Marin</b>, N. Kourtellis, M. Coppola, E. Carlini, Z. Ledwon, P. Tarkowski, T. Loven, Y. Gonzalez, M. Kentros, M. Dodis, P. Dazzi.
+1st Workshop on Flexible Resource and Application Management on the Edge <b>(FRAME 2021)</b>.
+
+
+<br>
 <b>[PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments]()</b> <br>
 F. Mo, H. Haddadi, K. Katevas, <b>E. Marin</b>, D. Perino and N. Kourtellis.
 ACM International Conference on Mobile Systems, Applications, and Services <b>(MobiSys 2021)</b>.
