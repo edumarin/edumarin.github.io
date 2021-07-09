@@ -25,6 +25,8 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 # Recent News
 
+* June, 2021. Diego Perino, Roberto Di Pietro and I wrote a paper on the security of serverless computing. Have a look at our paper [here](http://arxiv.org/abs/2107.03832)
+* June, 2021. Our MobiSys'21 paper got the best paper award!  
 * Apr, 2021. Our work "Inter-operability and Orchestration in Heterogeneous Cloud/Edge Resources: the ACCORDION vision" has been accepted at FRAME 2021
 * Mar, 2021. Our work "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments" has been accepted at ACM MobiSys 2021
 * Feb, 2021. We are organising the [1st Workshop on Mobile Serverless (MobileServerless)](https://www.it.uc3m.es/mbsvless21/), co-located with ACM MobiSys 2021 in a virtual (on-line) format. Please consider submitting your work.

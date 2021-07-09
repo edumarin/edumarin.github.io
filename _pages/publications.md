@@ -9,13 +9,13 @@ author_profile: true
 <br>
 <b>[Serverless Computing: A Security Perspective](http://arxiv.org/abs/2107.03832)</b> <br>
 <b>E. Marin</b>, D. Perino and R. Di Pietro.
-<b>(arXiv)</b>
+Under submission <b>(arXiv)</b>
 
 <br>
 <b>[PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments]()</b> <br>
 F. Mo, H. Haddadi, K. Katevas, <b>E. Marin</b>, D. Perino and N. Kourtellis.
 ACM International Conference on Mobile Systems, Applications, and Services <b>(MobiSys 2021)</b> (acceptance rate: 22%)
-Won the MobiSys Best Paper Award.
+Won the Best Paper Award.
 
 
 <br>
