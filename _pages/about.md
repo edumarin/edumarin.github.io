@@ -25,12 +25,13 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 # Recent News
 
-* June, 2021. Diego Perino, Roberto Di Pietro and I wrote a paper on the security of serverless computing. Have a look at our paper [here](http://arxiv.org/abs/2107.03832)
+* Sep, 2021. Paper conditionally accepted at CARDIS'21. More details soon!
+* June, 2021. We wrote a paper on the security of serverless computing. Have a look at our paper [here](http://arxiv.org/abs/2107.03832)
 * June, 2021. Our MobiSys'21 paper got the best paper award!  
 * Apr, 2021. Our work "Inter-operability and Orchestration in Heterogeneous Cloud/Edge Resources: the ACCORDION vision" has been accepted at FRAME 2021
 * Mar, 2021. Our work "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments" has been accepted at ACM MobiSys 2021
 * Feb, 2021. We are organising the [1st Workshop on Mobile Serverless (MobileServerless)](https://www.it.uc3m.es/mbsvless21/), co-located with ACM MobiSys 2021 in a virtual (on-line) format. Please consider submitting your work.
-* Dec, 2020. Diego Perino and I wrote an article entitled "Software Defined Networking privacy" for the (3rd) edition of Encyclopedia of Cryptography, Security, and Privacy. Stay tuned!
+* Dec, 2020. We wrote an article entitled "Software Defined Networking privacy" for the (3rd) edition of Encyclopedia of Cryptography, Security, and Privacy. Stay tuned!
 * May, 2020. Our work "Remote monitoring of cardiac implanted electronic devices – legal requirements and ethical principles ESC REGULATORY AFFAIRS / EHRA JOINT TASK FORCE REPORT" has been accepted at EP Europace 2020. This paper is the result of a collaboration with the European Society of Cardiology (ESC).
 * May, 2020. I have joined Telefonica Research as a Researcher!
 
