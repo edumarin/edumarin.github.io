@@ -25,7 +25,7 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 # Recent News
 
-* Sep, 2021. Paper conditionally accepted at CARDIS'21. More details soon!
+* Sep, 2021. Our paper "FuzzyKey: Comparing Fuzzy CryptographicPrimitives on Resource-Constrained Devices" has been accepted at CARDIS 2021
 * June, 2021. We wrote a paper on the security of serverless computing. Have a look at our paper [here](http://arxiv.org/abs/2107.03832)
 * June, 2021. Our MobiSys'21 paper got the best paper award!  
 * Apr, 2021. Our work "Inter-operability and Orchestration in Heterogeneous Cloud/Edge Resources: the ACCORDION vision" has been accepted at FRAME 2021
@@ -63,8 +63,8 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 # Academic Services
 * PC chair: MobileServerless’21
-* PC member: Security and Privacy for Mobile AI’21 (co-located with MobiSys), PAM’21 and CLOUD S&P’21 and 20 (co-located with ACNS)
+* PC member: Workshop on Serverless computing for pervasive cloud-edge-device systems and services'21 (co-located with Percom), Security and Privacy for Mobile AI’21 (co-located with MobiSys), PAM’21 and CLOUD S&P’21 and 20 (co-located with ACNS)
 
 
-* Conference Reviewer: Euro S&P 2020 and 2018, INFOCOM 2020 (x2), IEEE NFV-SDN 2021, 2020 and 2019, ICICS 2020, ASHES 2019 and 2017, ESORICS 2019 (x3), IEEE TrustCom 2019, WISTP 2018 and 2016, GIIS 2018, IEEE MASS 2018, DAC 2016, AsiaCCS 2016, Eurocrypt 2016 and Space 2014.
+* Conference Reviewer: INFOCOM 2021 and 2020 (x2), Euro S&P 2020 and 2018, IEEE NFV-SDN 2021, 2020 and 2019, ICICS 2020, ASHES 2019 and 2017, ESORICS 2019 (x3), IEEE TrustCom 2019, WISTP 2018 and 2016, GIIS 2018, IEEE MASS 2018, DAC 2016, AsiaCCS 2016, Eurocrypt 2016 and Space 2014.
 * Journal Reviewer: IEEE Communications Surveys & Tutorials, IEEE Transactions on Services Computing, Computer Networks, Journal of Computer Security, Concurrency and Computation: Practice and Experience, IEEE Transactions on Information Forensics and Security, Computers & Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Network and Service Management, Expert Review of Medical Devices, Security and Communication Networks, IEEE Journal of Biomedical and Health Informatics, and Sensors
