@@ -26,7 +26,7 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 # Recent News
 
 * Oct, 2021. Our paper "EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation" has been accepted at NDSS 2022
-* Sep, 2021. Our paper "FuzzyKey: Comparing Fuzzy CryptographicPrimitives on Resource-Constrained Devices" has been accepted at CARDIS 2021
+* Sep, 2021. Our paper "FuzzyKey: Comparing Fuzzy Cryptographic Primitives on Resource-Constrained Devices" has been accepted at CARDIS 2021
 * June, 2021. We wrote a paper on the security of serverless computing. Have a look at our paper [here](http://arxiv.org/abs/2107.03832)
 * June, 2021. Our MobiSys'21 paper got the best paper award!  
 * Apr, 2021. Our work "Inter-operability and Orchestration in Heterogeneous Cloud/Edge Resources: the ACCORDION vision" has been accepted at FRAME 2021
