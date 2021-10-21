@@ -9,9 +9,14 @@ author_profile: true
 # Conference papers
 
 <br>
+<b>[EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation]()</b> <br>
+J. Kim, <b>E. Marin</b>, M. Conti and S. Shin.
+To appear at Network and Distributed System Security Symposium <b>(NDSS 2022)</b>
+
+<br>
 <b>[FuzzyKey: Comparing Fuzzy Cryptographic Primitives on Resource-Constrained Devices]()</b> <br>
 M. Zhang, <b>E. Marin</b>, D. Oswald and D. Singelée.
-Smart Card Research and Advanced Applications <b>(CARDIS 2021)</b>
+To appear at Smart Card Research and Advanced Applications <b>(CARDIS 2021)</b>
 
 <br>
 <b>[PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments]()</b> <br>
