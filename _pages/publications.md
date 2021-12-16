@@ -14,20 +14,21 @@ J. Kim, <b>E. Marin</b>, M. Conti and S. Shin.
 To appear at Network and Distributed System Security Symposium <b>(NDSS 2022)</b>
 
 <br>
-<b>[FuzzyKey: Comparing Fuzzy Cryptographic Primitives on Resource-Constrained Devices]()</b> <br>
-M. Zhang, <b>E. Marin</b>, D. Oswald and D. Singelée.
-To appear at Smart Card Research and Advanced Applications <b>(CARDIS 2021)</b>
+<b>[Software Defined Networking Privacy]()</b> <br>
+<b>E. Marin</b> and D. Perino.
+To appear in 3rd edition of Encyclopedia of Cryptography, Security and Privacy (2021).
 
 <br>
-<b>[PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments]()</b> <br>
+<b>[FuzzyKey: Comparing Fuzzy Cryptographic Primitives on Resource-Constrained Devices]()</b> <br>
+M. Zhang, <b>E. Marin</b>, D. Oswald and D. Singelée.
+Smart Card Research and Advanced Applications <b>(CARDIS 2021)</b>
+
+<br>
+<b>[PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments](https://dl.acm.org/doi/10.1145/3458864.3466628)</b> <br>
 F. Mo, H. Haddadi, K. Katevas, <b>E. Marin</b>, D. Perino and N. Kourtellis.
 ACM International Conference on Mobile Systems, Applications, and Services <b>(MobiSys 2021)</b> (acceptance rate: 22%)
 Won the Best Paper Award.
 
-<br>
-<b>[Software Defined Networking Privacy]()</b> <br>
-<b>E. Marin</b> and D. Perino.
-To appear in 3rd edition of Encyclopedia of Cryptography, Security and Privacy (2021).
 
 <br>
 <b>[An In-depth Look Into SDN Topology Discovery Mechanisms: Novel Attacks and Practical Countermeasures](https://dl.acm.org/doi/10.1145/3319535.3354194)</b> <br>
