@@ -14,12 +14,12 @@ J. Kim, <b>E. Marin</b>, M. Conti and S. Shin.
 To appear at Network and Distributed System Security Symposium <b>(NDSS 2022)</b>
 
 <br>
-<b>[Software Defined Networking Privacy]()</b> <br>
+<b>[Software Defined Networking Privacy](https://link.springer.com/referenceworkentry/10.1007%2F978-3-642-27739-9_1744-1)</b> <br>
 <b>E. Marin</b> and D. Perino.
-To appear in 3rd edition of Encyclopedia of Cryptography, Security and Privacy (2021).
+3rd edition of Encyclopedia of Cryptography, Security and Privacy (2021).
 
 <br>
-<b>[FuzzyKey: Comparing Fuzzy Cryptographic Primitives on Resource-Constrained Devices]()</b> <br>
+<b>[FuzzyKey: Comparing Fuzzy Cryptographic Primitives on Resource-Constrained Devices](https://www.esat.kuleuven.be/cosic/publications/article-3393.pdf)</b> <br>
 M. Zhang, <b>E. Marin</b>, D. Oswald and D. Singelée.
 Smart Card Research and Advanced Applications <b>(CARDIS 2021)</b>
 
