@@ -14,7 +14,7 @@ redirect_from:
 
 # About Me
 
-I am a Researcher at [Telefonica Research](https://www.telefonica.com/en/web/innovation/core-innovation/research) in Barcelona, Spain.
+I am a Research Scientist at [Telefonica Research](https://www.telefonica.com/en/web/innovation/core-innovation/research) in Barcelona, Spain.
 
 My research interests lie in the areas of Networks and Security. Currently, my work focuses on the security of new networking and computing paradigms such as Software Defined Networking (SDN), P4, Network Function Virtualisation (NFV), Containers or Serverless Computing.
 
@@ -39,7 +39,9 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 # Talks
 
-* "A first look at the security of serverless applications" Cloud NativeSecurity Day Europe 2021, (Virtual event)"
+* "EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation" Seminar at the Distributed, Parallel and Secure Systems group, University of Lisbon, (Lisbon, Portugal), February 2022
+* ”Software-defined and programmable networks” Invited talk for the Two week International Winter School on Cyber Security and Threat Intelligence, (Virtual event), 25 January 2022
+* "A first look at the security of serverless applications" Cloud NativeSecurity Day Europe 2021, (Virtual event)
 * "The security of modern networks: the case of Software-Defined Networks", Invited talk for the Computer and Network Security course at University of Padua, (Virtual event), 4 Nov 2020
 * "The (in)security of implantable medical devices", Invited talk for the CIF Seminars interdisciplinary seminars at KU Leuven, (Virtual event), 17 July 2020
 * "Introduction to Software-Defined Networking and its security challenges", Invited talk for the "Computer and Network Security: Advanced Topics" course at TU Delft, (Virtual event), 20 May 2020
