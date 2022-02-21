@@ -9,6 +9,12 @@ author_profile: true
 # Conference papers
 
 <br>
+<b>[Serverless Computing: A Security Perspective](https://arxiv.org/abs/2107.03832)</b> <br>
+<b>E. Marin</b>, D. Perino, R. Di Pietro
+Under submission
+
+
+<br>
 <b>[EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation]()</b> <br>
 J. Kim, <b>E. Marin</b>, M. Conti and S. Shin.
 To appear at Network and Distributed System Security Symposium <b>(NDSS 2022)</b>
