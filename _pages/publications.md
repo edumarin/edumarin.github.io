@@ -11,7 +11,7 @@ author_profile: true
 <br>
 <b>[Serverless Computing: A Security Perspective](https://arxiv.org/abs/2107.03832)</b> <br>
 <b>E. Marin</b>, D. Perino, R. Di Pietro
-Under submission
+ (Under submission)
 
 
 <br>
