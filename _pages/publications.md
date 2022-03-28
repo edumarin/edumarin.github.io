@@ -13,7 +13,6 @@ author_profile: true
 <b>E. Marin</b>, D. Perino, R. Di Pietro
  (Under submission)
 
-
 <br>
 <b>[EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation]()</b> <br>
 J. Kim, <b>E. Marin</b>, M. Conti and S. Shin.
@@ -82,7 +81,12 @@ ACM Conference on Data and Application Security and Privacy <b>(CODASPY 2016)</b
 International Conference on Ad Hoc Networks and Wireless <b>(ADHOC-NOW 2016)</b> (acceptance rate: 37%).
 
 
-# Journal papers
+# Journal and magazine papers
+
+<br>
+<b>[Privacy-preserving AI for future networks]()</b> <br>
+D Perino, K Katevas, A Lutu, <b>E. Marin</b>, N Kourtellis
+To appear at Communications of the ACM <b>(CACM 2022)</b>
 
 <br>
 <b>[Remote monitoring of cardiac implanted electronic devices – legal requirements and ethical principles ESC REGULATORY AFFAIRS / EHRA JOINT TASK FORCE REPORT](https://academic.oup.com/europace/advance-article/doi/10.1093/europace/euaa168/5877304)</b> <br>
