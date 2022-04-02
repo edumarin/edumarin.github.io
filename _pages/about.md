@@ -24,7 +24,8 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 
 # Recent News
-* Mar, 2022. Our paper "Privacy-preserving AI for future networks" has been accepted at CACM
+* Mar, 2022. Our paper "Symbolon: Enabling Flexible Multi-device-based User Authentication" has been accepted at IEEE DSC 2022
+* Mar, 2022. Our paper "Privacy-preserving AI for future networks" has been accepted at CACM 2022
 * Oct, 2021. Our paper "EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation" has been accepted at NDSS 2022
 * Sep, 2021. Our paper "FuzzyKey: Comparing Fuzzy Cryptographic Primitives on Resource-Constrained Devices" has been accepted at CARDIS 2021
 * June, 2021. We wrote a paper on the security of serverless computing. Have a look at our paper [here](http://arxiv.org/abs/2107.03832)

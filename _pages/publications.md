@@ -11,7 +11,12 @@ author_profile: true
 <br>
 <b>[Serverless Computing: A Security Perspective](https://arxiv.org/abs/2107.03832)</b> <br>
 <b>E. Marin</b>, D. Perino, R. Di Pietro
- (Under submission)
+(Under submission)
+
+<br>
+<b>[Symbolon: Enabling Flexible Multi-device-based User Authentication]()</b> <br>
+T. Laing, <b>E. Marin</b>, M. Ryan, J. Schiffman and G. Wattiau
+To appear at IEEE Conference on Dependable and Secure Computing <b>(IEEE DSC 2022)</b>
 
 <br>
 <b>[EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation]()</b> <br>
