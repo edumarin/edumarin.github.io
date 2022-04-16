@@ -91,7 +91,12 @@ International Conference on Ad Hoc Networks and Wireless <b>(ADHOC-NOW 2016)</b>
 <br>
 <b>[Privacy-preserving AI for future networks]()</b> <br>
 D Perino, K Katevas, A Lutu, <b>E. Marin</b>, N Kourtellis
-To appear at Communications of the ACM <b>(CACM 2022)</b>
+Communications of the ACM <b>(CACM 2022)</b>
+
+<br>
+<b>[PPFL: Enhancing Privacy in Federated Learning with Confidential Computing]()</b> <br>
+F. Mo, H. Haddadi, K. Katevas, E. Marin, D. Perino, N. Kourtellis
+ACM GetMobile 2022 <b>(GetMobile 2022)</b>
 
 <br>
 <b>[Remote monitoring of cardiac implanted electronic devices – legal requirements and ethical principles ESC REGULATORY AFFAIRS / EHRA JOINT TASK FORCE REPORT](https://academic.oup.com/europace/advance-article/doi/10.1093/europace/euaa168/5877304)</b> <br>
