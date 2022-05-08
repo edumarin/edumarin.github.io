@@ -26,12 +26,12 @@ D. Seara, B. Conde, <b>E. Marin</b>, M. Medard, M. Shahbaz and F. M. V. Ramos.
 
 <br>
 <b>[Symbolon: Enabling Flexible Multi-device-based User Authentication]()</b> <br>
-T. Laing, <b>E. Marin</b>, M. Ryan, J. Schiffman and G. Wattiau.
+T. Laing+, <b>E. Marin+</b>, M. Ryan+, J. Schiffman+ and G. Wattiau+.
 IEEE Conference on Dependable and Secure Computing <b>(IEEE DSC 2022)</b>
 
 <br>
 <b>[EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation]()</b> <br>
-J. Kim, <b>E. Marin</b>, M. Conti and S. Shin.
+J. Kim+, <b>E. Marin+</b>, M. Conti and S. Shin.
 Network and Distributed System Security Symposium <b>(NDSS 2022)</b> (acceptance rate: 16,2%)
 
 <br>
