@@ -22,12 +22,12 @@ M. Zhang, <b>E. Marin</b>, D. Oswald, V. Kostakos, M. Ryan, B. Tag and K. Kateva
 <br>
 <b>[Primitives for Finite Field Arithmetic in Network Switches]()</b> <br>
 D. Seara, B. Conde, <b>E. Marin</b>, M. Medard, M. Shahbaz and F. M. V. Ramos.
-To appear at <b>P4 workshop 2022</b>
+<b>(P4 workshop 2022)</b>
 
 <br>
 <b>[Symbolon: Enabling Flexible Multi-device-based User Authentication]()</b> <br>
 T. Laing, <b>E. Marin</b>, M. Ryan, J. Schiffman and G. Wattiau.
-To appear at IEEE Conference on Dependable and Secure Computing <b>(IEEE DSC 2022)</b>
+IEEE Conference on Dependable and Secure Computing <b>(IEEE DSC 2022)</b>
 
 <br>
 <b>[EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation]()</b> <br>
