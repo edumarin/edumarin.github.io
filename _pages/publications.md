@@ -14,14 +14,14 @@ author_profile: true
 
 <br>
 <b>[OOBKey: Key Exchange with Implantable Medical Devices Using Out-Of-Band Channels](https://eprint.iacr.org/2022/511)</b> <br>
-<b>M. Zhang, E. Marin</b>, D. Oswald, V. Kostakos, M. Ryan, B. Tag and K. Katevas
+M. Zhang, <b>E. Marin</b>, D. Oswald, V. Kostakos, M. Ryan, B. Tag and K. Katevas
 (Under submission)
 
 # 2022
 
 <br>
 <b>[Primitives for Finite Field Arithmetic in Network Switches]()</b> <br>
-<b>D. Seara, B. Conde, E. Marin, M. Medard, M. Shahbaz and F. M. V. Ramos
+D. Seara, B. Conde, <b>E. Marin</b>, M. Medard, M. Shahbaz and F. M. V. Ramos
 To appear at <b>P4 workshop 2022</b>
 
 <br>
