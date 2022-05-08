@@ -9,24 +9,24 @@ author_profile: true
 
 <br>
 <b>[Serverless Computing: A Security Perspective](https://arxiv.org/abs/2107.03832)</b> <br>
-<b>E. Marin</b>, D. Perino, R. Di Pietro
+<b>E. Marin</b>, D. Perino, R. Di Pietro.
 (Under submission)
 
 <br>
 <b>[OOBKey: Key Exchange with Implantable Medical Devices Using Out-Of-Band Channels](https://eprint.iacr.org/2022/511)</b> <br>
-M. Zhang, <b>E. Marin</b>, D. Oswald, V. Kostakos, M. Ryan, B. Tag and K. Katevas
+M. Zhang, <b>E. Marin</b>, D. Oswald, V. Kostakos, M. Ryan, B. Tag and K. Katevas.
 (Under submission)
 
 # 2022
 
 <br>
 <b>[Primitives for Finite Field Arithmetic in Network Switches]()</b> <br>
-D. Seara, B. Conde, <b>E. Marin</b>, M. Medard, M. Shahbaz and F. M. V. Ramos
+D. Seara, B. Conde, <b>E. Marin</b>, M. Medard, M. Shahbaz and F. M. V. Ramos.
 To appear at <b>P4 workshop 2022</b>
 
 <br>
 <b>[Symbolon: Enabling Flexible Multi-device-based User Authentication]()</b> <br>
-T. Laing, <b>E. Marin</b>, M. Ryan, J. Schiffman and G. Wattiau
+T. Laing, <b>E. Marin</b>, M. Ryan, J. Schiffman and G. Wattiau.
 To appear at IEEE Conference on Dependable and Secure Computing <b>(IEEE DSC 2022)</b>
 
 <br>
@@ -36,12 +36,12 @@ Network and Distributed System Security Symposium <b>(NDSS 2022)</b> (acceptance
 
 <br>
 <b>[PPFL: Enhancing Privacy in Federated Learning with Confidential Computing]()</b> <br>
-F. Mo, H. Haddadi, K. Katevas, E. Marin, D. Perino, N. Kourtellis
+F. Mo, H. Haddadi, K. Katevas, E. Marin, D. Perino, N. Kourtellis.
 ACM GetMobile 2022 <b>(GetMobile 2022)</b>
 
 <br>
 <b>[Privacy-preserving AI for future networks]()</b> <br>
-D. Perino, K. Katevas, A. Lutu, <b>E. Marin</b>, N. Kourtellis
+D. Perino, K. Katevas, A. Lutu, <b>E. Marin</b>, N. Kourtellis.
 Communications of the ACM <b>(CACM 2022)</b>
 
 
