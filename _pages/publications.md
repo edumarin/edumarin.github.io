@@ -21,7 +21,7 @@ author_profile: true
 
 <br>
 <b>[Primitives for Finite Field Arithmetic in Network Switches]()</b> <br>
-D. Seara, B. Conde, E. Marin, M. Medard, M. Shahbaz and F. M. V. Ramos
+<b>D. Seara, B. Conde, E. Marin, M. Medard, M. Shahbaz and F. M. V. Ramos
 To appear at <b>P4 workshop 2022</b>
 
 <br>
@@ -32,7 +32,7 @@ To appear at IEEE Conference on Dependable and Secure Computing <b>(IEEE DSC 202
 <br>
 <b>[EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation]()</b> <br>
 J. Kim, <b>E. Marin</b>, M. Conti and S. Shin.
-Network and Distributed System Security Symposium <b>(NDSS 2022)</b>
+Network and Distributed System Security Symposium <b>(NDSS 2022)</b> (acceptance rate: 16,2%)
 
 <br>
 <b>[PPFL: Enhancing Privacy in Federated Learning with Confidential Computing]()</b> <br>
@@ -51,7 +51,7 @@ Communications of the ACM <b>(CACM 2022)</b>
 <br>
 <b>[Software Defined Networking Privacy](https://link.springer.com/referenceworkentry/10.1007%2F978-3-642-27739-9_1744-1)</b> <br>
 <b>E. Marin</b> and D. Perino.
-3rd edition of Encyclopedia of Cryptography, Security and Privacy (2021).
+3rd edition of <b>Encyclopedia of Cryptography, Security and Privacy (2021)</b>.
 
 <br>
 <b>[FuzzyKey: Comparing Fuzzy Cryptographic Primitives on Resource-Constrained Devices](https://www.esat.kuleuven.be/cosic/publications/article-3393.pdf)</b> <br>
@@ -103,12 +103,6 @@ Transactions on Cryptographic Hardware and Embedded Systems <b>(TCHES 2019)</b> 
 
 
 # 2018
-<br>
-<b>[Towards quantum distance bounding protocols](https://www.springerprofessional.de/en/towards-quantum-distance-bounding-protocols/13315916)</b> <br>
-A. Abidin+, <b>E. Marin+</b>, D. Singelée+ and B. Preneel+.
-Workshop on RFID Security and Privacy <b>(RFIDsec 2016)</b>.
-
-
 <br>
 <b>[Securing Wireless Neurostimulators](https://dl.acm.org/doi/10.1145/3176258.3176310)</b> <br>
 <b>E. Marin</b>, D. Singelée, B. Yang, V. Volskiy, G. Vandenbosch, B. Nuttin and B. Preneel.
