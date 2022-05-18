@@ -35,11 +35,6 @@ J. Kim+, <b>E. Marin+</b>, M. Conti and S. Shin.
 Network and Distributed System Security Symposium <b>(NDSS 2022)</b> (acceptance rate: 16,2%)
 
 <br>
-<b>[PPFL: Enhancing Privacy in Federated Learning with Confidential Computing]()</b> <br>
-F. Mo, H. Haddadi, K. Katevas, E. Marin, D. Perino, N. Kourtellis.
-ACM GetMobile 2022 <b>(GetMobile 2022)</b>
-
-<br>
 <b>[Privacy-preserving AI for future networks]()</b> <br>
 D. Perino, K. Katevas, A. Lutu, <b>E. Marin</b>, N. Kourtellis.
 Communications of the ACM <b>(CACM 2022)</b>

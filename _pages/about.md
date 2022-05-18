@@ -73,7 +73,7 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 # Academic Services
 * PC chair: MobileServerless’21
-* PC member (conferences): PST'22, TMA'22 and PAM’21
+* PC member (conferences): ESORICS'22, PST'22, TMA'22 and PAM’21
 * PC member (workshops): ANT'22, SSR'22, LESS'22 (co-located with Percom), MAISP’21 (co-located with MobiSys), CLOUD S&P’21 and 20 (co-located with ACNS)
 
 
