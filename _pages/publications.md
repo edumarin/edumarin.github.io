@@ -20,6 +20,11 @@ M. Zhang, <b>E. Marin</b>, D. Oswald, V. Kostakos, M. Ryan, B. Tag and K. Kateva
 # 2022
 
 <br>
+<b>[Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic]()</b> <br>
+M. Seo, J. Kim, <b>E. Marin</b>, M. You, T. Park, S. Lee, S. Shin and J. Kim.
+<b>(ACSAC 2022)</b>
+
+<br>
 <b>[Primitives for Finite Field Arithmetic in Network Switches]()</b> <br>
 D. Seara, B. Conde, <b>E. Marin</b>, M. Medard, M. Shahbaz and F. M. V. Ramos.
 <b>(P4 workshop 2022)</b>
