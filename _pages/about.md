@@ -31,7 +31,7 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 * Sep, 2022. Our paper "Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic" has been accepted at ACSAC 2022
 * May, 2022. Bernardo has joined our group as intern. He'll work with me on SDN/P4 security for 6 months. Welcome Bernardo!
 * May, 2022. Our paper "Primitives for Finite Field Arithmetic in Network Switches" has been accepted at P4 workshop 2022
-* Mar, 2022. Two of the proposals we submitted to EU calls have been accepted!
+* Mar, 2022. Seven of the proposals we submitted to EU calls have been accepted!. I was involved in 4 of them
 * Mar, 2022. Our paper "PPFL: Enhancing Privacy in Federated Learning with Confidential Computing" has been accepted at ACM GetMobile 2022
 * Mar, 2022. Our paper "Symbolon: Enabling Flexible Multi-device-based User Authentication" has been accepted at IEEE DSC 2022
 * Mar, 2022. Our paper "Privacy-preserving AI for future networks" has been accepted at CACM 2022
