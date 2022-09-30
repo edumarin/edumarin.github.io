@@ -7,10 +7,7 @@ author_profile: true
 
 # Pre-prints
 
-<br>
-<b>[Serverless Computing: A Security Perspective](https://arxiv.org/abs/2107.03832)</b> <br>
-<b>E. Marin</b>, D. Perino, R. Di Pietro.
-(Under submission)
+
 
 <br>
 <b>[OOBKey: Key Exchange with Implantable Medical Devices Using Out-Of-Band Channels](https://eprint.iacr.org/2022/511)</b> <br>
@@ -18,6 +15,11 @@ M. Zhang, <b>E. Marin</b>, D. Oswald, V. Kostakos, M. Ryan, B. Tag and K. Kateva
 (Under submission)
 
 # 2022
+
+<br>
+<b>[Serverless Computing: A Security Perspective]()</b> <br>
+<b>E. Marin</b>, D. Perino, R. Di Pietro.
+<b>(Journal of Cloud Computing)</b>
 
 <br>
 <b>[Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic]()</b> <br>
