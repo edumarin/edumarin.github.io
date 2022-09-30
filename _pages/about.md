@@ -27,7 +27,7 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 # Recent News
 
-* Sep, 2022. Our magazine paper "Commercial R&D practices" has been accepted at the Journal of Cloud Computing
+* Sep, 2022. Our magazine paper "Serverless Computing: A Security Perspective" has been accepted at the Journal of Cloud Computing
 * Sep, 2022. Our paper "Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic" has been accepted at ACSAC 2022
 * May, 2022. Bernardo has joined our group as intern. He'll work with me on SDN/P4 security for 6 months. Welcome Bernardo!
 * May, 2022. Our paper "Primitives for Finite Field Arithmetic in Network Switches" has been accepted at P4 workshop 2022
