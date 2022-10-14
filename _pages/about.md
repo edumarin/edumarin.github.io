@@ -53,6 +53,7 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 * "Security of new computing paradigms" Invited talk for the APROPOS summer school, (Valencia, Spain), 28 September 2022
 * "EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation" Seminar at the Distributed, Parallel and Secure Systems group, University of Lisbon, (Lisbon, Portugal), February 2022
 * ”Software-defined and programmable networks” Invited talk for the Two week International Winter School on Cyber Security and Threat Intelligence, (Virtual event), 25 January 2022
+* "The security of modern networks: the case of Software-Defined Networks", Invited talk for the Computer and Network Security course at TU Delft (Virtual event), 26 May 2021
 * "A first look at the security of serverless applications" Cloud NativeSecurity Day Europe 2021, (Virtual event)
 * "The security of modern networks: the case of Software-Defined Networks", Invited talk for the Computer and Network Security course at University of Padua, (Virtual event), 4 Nov 2020
 * "The (in)security of implantable medical devices", Invited talk for the CIF Seminars interdisciplinary seminars at KU Leuven, (Virtual event), 17 July 2020
