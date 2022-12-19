@@ -17,6 +17,11 @@ M. Zhang, <b>E. Marin</b>, D. Oswald, V. Kostakos, M. Ryan, B. Tag and K. Kateva
 # 2022
 
 <br>
+<b>[HAT: Secure and Practical Key Establishment for Implantable Medical Devices]()</b> <br>
+S. Duttagupta, <b>E. Marin</b>, D. Singelée and B. Preneel.
+ACM Conference on Data and Application Security and Privacy <b>(CODASPY 2022)</b>
+
+<br>
 <b>[Serverless Computing: A Security Perspective]()</b> <br>
 <b>E. Marin</b>, D. Perino, R. Di Pietro.
 <b>(Journal of Cloud Computing)</b>
@@ -24,7 +29,7 @@ M. Zhang, <b>E. Marin</b>, D. Oswald, V. Kostakos, M. Ryan, B. Tag and K. Kateva
 <br>
 <b>[Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic]()</b> <br>
 M. Seo, J. Kim, <b>E. Marin</b>, M. You, T. Park, S. Lee, S. Shin and J. Kim.
-<b>(ACSAC 2022)</b>
+Annual Computer Security Applications Conference <b>(ACSAC 2022)</b> (acceptance rate: 24%)
 
 <br>
 <b>[Primitives for Finite Field Arithmetic in Network Switches]()</b> <br>

@@ -27,6 +27,7 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 # Recent News
 
+* Dec, 2022. Our paper "HAT: Secure and Practical Key Establishment for Implantable Medical Devices" has been accepted at CODASPY 2022.
 * Sep, 2022. Our magazine paper "Serverless Computing: A Security Perspective" has been accepted at the Journal of Cloud Computing
 * Sep, 2022. Our paper "Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic" has been accepted at ACSAC 2022
 * May, 2022. Bernardo has joined our group as intern. He'll work with me on SDN/P4 security for 6 months. Welcome Bernardo!
