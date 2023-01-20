@@ -5,21 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Pre-prints
-
-
-
-<br>
-<b>[OOBKey: Key Exchange with Implantable Medical Devices Using Out-Of-Band Channels](https://eprint.iacr.org/2022/511)</b> <br>
-M. Zhang, <b>E. Marin</b>, D. Oswald, V. Kostakos, M. Ryan, B. Tag and K. Katevas.
-(Under submission)
-
-# 2022
+# 2023
 
 <br>
 <b>[HAT: Secure and Practical Key Establishment for Implantable Medical Devices]()</b> <br>
 S. Duttagupta, <b>E. Marin</b>, D. Singelée and B. Preneel.
-ACM Conference on Data and Application Security and Privacy <b>(CODASPY 2022)</b>
+ACM Conference on Data and Application Security and Privacy <b>(CODASPY 2023)</b>
+
+
+# 2022
 
 <br>
 <b>[Serverless Computing: A Security Perspective]()</b> <br>

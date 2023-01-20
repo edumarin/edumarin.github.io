@@ -18,7 +18,7 @@ I am a Research Scientist at [Telefonica Research](https://www.telefonica.com/en
 
 I am also a collaborator professor at the Universitat Oberta de Catalunya (UOC).
 
-My research interests lie in the areas of Networks and Security. Currently, my work focuses on the security of new networking and computing paradigms such as Software Defined Networking (SDN), P4, Network Function Virtualisation (NFV), Containers or Serverless Computing.
+My research interests lie in the areas of Networks and Security. Currently, my work focuses on the security of new networking and computing paradigms such as Software Defined Networking (SDN), Network Function Virtualisation (NFV), programmable data planes (e.g., through P4), containers or serverless computing.
 
 In 2018, I obtained a PhD degree from the [COSIC research group](https://www.esat.kuleuven.be/cosic/) (KU Leuven, Belgium) under the supervision of Prof Bart Preneel and Dr Dave Singelée. My doctoral thesis is entitled [Security and Privacy of Implantable Medical Devices](https://www.esat.kuleuven.be/cosic/publications/thesis-302.pdf).
 
@@ -27,7 +27,8 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 # Recent News
 
-* Dec, 2022. Our paper "HAT: Secure and Practical Key Establishment for Implantable Medical Devices" has been accepted at CODASPY 2022.
+* Jan, 2023. Invited to serve on the PC of ESORICS and TMA!
+* Dec, 2022. Our paper "HAT: Secure and Practical Key Establishment for Implantable Medical Devices" has been accepted at CODASPY 2023.
 * Sep, 2022. Our magazine paper "Serverless Computing: A Security Perspective" has been accepted at the Journal of Cloud Computing
 * Sep, 2022. Our paper "Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic" has been accepted at ACSAC 2022
 * May, 2022. Bernardo has joined our group as intern. He'll work with me on SDN/P4 security for 6 months. Welcome Bernardo!
@@ -39,7 +40,7 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 * Oct, 2021. Our paper "EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation" has been accepted at NDSS 2022
 * Sep, 2021. Our paper "FuzzyKey: Comparing Fuzzy Cryptographic Primitives on Resource-Constrained Devices" has been accepted at CARDIS 2021
 * June, 2021. We wrote a paper on the security of serverless computing. Have a look at our paper [here](http://arxiv.org/abs/2107.03832)
-* June, 2021. Our MobiSys'21 paper got the best paper award!  
+* June, 2021. Our MobiSys paper got the best paper award!  
 * Apr, 2021. Our work "Inter-operability and Orchestration in Heterogeneous Cloud/Edge Resources: the ACCORDION vision" has been accepted at FRAME 2021
 * Mar, 2021. Our work "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments" has been accepted at ACM MobiSys 2021
 * Feb, 2021. We are organising the [1st Workshop on Mobile Serverless (MobileServerless)](https://www.it.uc3m.es/mbsvless21/), co-located with ACM MobiSys 2021 in a virtual (on-line) format. Please consider submitting your work.
@@ -79,9 +80,9 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 
 # Academic Services
-* PC chair: MobileServerless’21
-* PC member (conferences): ESORICS'22, PST'22, TMA'22 and PAM’21
-* PC member (workshops): ANT'22, SSR'22, LESS'22 (co-located with Percom), MAISP’21 (co-located with MobiSys), CLOUD S&P’21 and 20 (co-located with ACNS)
+* PC chair: MobileServerless 2021
+* PC member (conferences): ESORICS 2023 and 2022, TMA 2023 and 2022, PST 2022 and PAM 2021
+* PC member (workshops): SecSoft 2023, ANT 2022, SSR 2022, LESS 2022 (co-located with Percom), MAISP 2021 (co-located with MobiSys), CLOUD S&P 2021 and 2020 (co-located with ACNS)
 
 
 * Conference Reviewer: INFOCOM 2022 (x2), 2021 and 2020 (x2), Euro S&P 2020 and 2018, IEEE NFV-SDN 2021, 2020 and 2019, ICICS 2020, ASHES 2019 and 2017, ESORICS 2019 (x3), IEEE TrustCom 2019, WISTP 2018 and 2016, GIIS 2018, IEEE MASS 2018, DAC 2016, AsiaCCS 2016, Eurocrypt 2016 and Space 2014.
