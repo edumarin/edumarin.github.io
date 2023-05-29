@@ -27,7 +27,7 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 # Recent News
 
-* Jan, 2023. Invited to serve on the PC of ESORICS and TMA!
+* Jan, 2023. Invited to serve on the PC of ESORICS and TMA
 * Dec, 2022. Our paper "HAT: Secure and Practical Key Establishment for Implantable Medical Devices" has been accepted at CODASPY 2023.
 * Sep, 2022. Our magazine paper "Serverless Computing: A Security Perspective" has been accepted at the Journal of Cloud Computing
 * Sep, 2022. Our paper "Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic" has been accepted at ACSAC 2022
@@ -86,6 +86,5 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 * PC member (conferences): ESORICS 2023 and 2022, TMA 2023 and 2022, PST 2022 and PAM 2021
 * PC member (workshops): SecSoft 2023, ANT 2022, SSR 2022, LESS 2022 (co-located with Percom), MAISP 2021 (co-located with MobiSys), CLOUD S&P 2021 and 2020 (co-located with ACNS)
 
-
-* Conference Reviewer: INFOCOM 2022 (x2), 2021 and 2020 (x2), Euro S&P 2020 and 2018, IEEE NFV-SDN 2021, 2020 and 2019, ICICS 2020, ASHES 2019 and 2017, ESORICS 2019 (x3), IEEE TrustCom 2019, WISTP 2018 and 2016, GIIS 2018, IEEE MASS 2018, DAC 2016, AsiaCCS 2016, Eurocrypt 2016 and Space 2014.
+* Conference Reviewer: CHES 2023, ECML-PKDD 2023 (demo reviews), INFOCOM 2022 (x2), 2021 and 2020 (x2), Euro S&P 2020 and 2018, IEEE NFV-SDN 2021, 2020 and 2019, ICICS 2020, ASHES 2019 and 2017, ESORICS 2019 (x3), IEEE TrustCom 2019, WISTP 2018 and 2016, GIIS 2018, IEEE MASS 2018, DAC 2016, AsiaCCS 2016, Eurocrypt 2016 and Space 2014.
 * Journal Reviewer: IEEE Communications Surveys & Tutorials, IEEE Transactions on Services Computing, Computer Networks, Journal of Computer Security, Concurrency and Computation: Practice and Experience, IEEE Transactions on Information Forensics and Security, Computers & Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Network and Service Management, Expert Review of Medical Devices, Security and Communication Networks, IEEE Journal of Biomedical and Health Informatics, and Sensors
