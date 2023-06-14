@@ -51,7 +51,9 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 # Talks
 
-* "Serverless computing: A security perspective​", Webinar organised by Accordion and Charity EU projects, 21 April 2023
+* "Serverless computing: A security perspective", WoSCx2, 22 June 2023
+* "The evolution of cloud computing: A security perspective", Keynote at Conference on Concurrence and Distributed Systems (JCSD), 20 June 2023
+* "Serverless computing: A security perspective​", Webinar organised by Accordion and Charity EU projects, 20 April 2023
 * "Artificial Intelligence and Decentralized Privacy Preserving Mechanisms for Telco Industry​", University of Murcia, 20 March 2023
 * "Commercial R&D practices" Participation in panel at the APROPOS summer school, (Valencia, Spain), 28 September 2022
 * "Security of new computing paradigms" Invited talk for the APROPOS summer school, (Valencia, Spain), 28 September 2022
