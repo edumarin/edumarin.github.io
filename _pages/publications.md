@@ -8,6 +8,12 @@ author_profile: true
 # 2023
 
 <br>
+<b>[Security in Cloud-Native Services: A Survey ]()</b> <br>
+T. Theodoropoulos, L. Rosa, C. Benzaid, P. Gray, <b>E. Marin</b>, A. Makris, L. Cordeiro, F. Diego, P. Sorokin, M. Di Girolamo, P. Barone, T. Taleb, K. Tserpes.
+<b>(Journal of Cybersecurity and Privacy​ 2023)</b>
+    
+
+<br>
 <b>[HAT: Secure and Practical Key Establishment for Implantable Medical Devices]()</b> <br>
 S. Duttagupta, <b>E. Marin</b>, D. Singelée and B. Preneel.
 ACM Conference on Data and Application Security and Privacy <b>(CODASPY 2023)</b>

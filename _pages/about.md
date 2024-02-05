@@ -27,13 +27,18 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 # Recent News
 
+
+* Dec, 2023. The proposal I submitted to the CLOUDLESS project (NextGenerationEU) has been accepted!
+* Oct, 2023. Alessio has joined our group as an intern. He'll work with me on container/serverless security for six months. Welcome Alessio!
+* Oct, 2023. Invited to serve as industry co-chair at IEEE SMARTCOMP 2024
+* Oct, 2023. Our paper "Security in Cloud-Native Services: A Survey" has been accepted at Journal of Cybersecurity and Privacy 2023
 * Jan, 2023. Invited to serve on the PC of ESORICS and TMA
 * Dec, 2022. Our paper "HAT: Secure and Practical Key Establishment for Implantable Medical Devices" has been accepted at CODASPY 2023.
 * Sep, 2022. Our magazine paper "Serverless Computing: A Security Perspective" has been accepted at the Journal of Cloud Computing
 * Sep, 2022. Our paper "Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic" has been accepted at ACSAC 2022
-* May, 2022. Bernardo has joined our group as an intern. He'll work with me on SDN/P4 security for 6 months. Welcome Bernardo!
+* May, 2022. Bernardo has joined our group as an intern. He'll work with me on SDN/P4 security for six months. Welcome Bernardo!
 * May, 2022. Our paper "Primitives for Finite Field Arithmetic in Network Switches" has been accepted at P4 workshop 2022
-* Mar, 2022. Seven of the proposals we submitted to EU calls have been accepted!. I was involved in 4 of them
+* Mar, 2022. Seven of the proposals we submitted to EU calls have been accepted!. I was involved in four of them
 * Mar, 2022. Our paper "PPFL: Enhancing Privacy in Federated Learning with Confidential Computing" has been accepted at ACM GetMobile 2022
 * Mar, 2022. Our paper "Symbolon: Enabling Flexible Multi-device-based User Authentication" has been accepted at IEEE DSC 2022
 * Mar, 2022. Our paper "Privacy-preserving AI for future networks" has been accepted at CACM 2022
@@ -48,9 +53,9 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 * May, 2020. Our work "Remote monitoring of cardiac implanted electronic devices – legal requirements and ethical principles ESC REGULATORY AFFAIRS / EHRA JOINT TASK FORCE REPORT" has been accepted at EP Europace 2020. This paper is the result of a collaboration with the European Society of Cardiology (ESC).
 * May, 2020. I have joined Telefonica Research as a Researcher!
 
-
 # Talks
 
+* "Serverless computing: A security perspective", Cloud Infrastructure Management, Security and Confidential Computing Workshop, 8 Nov 2023
 * "Serverless computing: A security perspective", WoSCx2, 22 June 2023
 * "The evolution of cloud computing: A security perspective", Keynote at Conference on Concurrence and Distributed Systems (JCSD), 20 June 2023
 * "Serverless computing: A security perspective​", Webinar organised by Accordion and Charity EU projects, 20 April 2023
@@ -84,9 +89,9 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 
 # Academic Services
-* PC chair: MobileServerless 2021
-* PC member (conferences): ESORICS 2023 and 2022, TMA 2023 and 2022, PST 2022 and PAM 2021
-* PC member (workshops): SecSoft 2023, ANT 2022, SSR 2022, LESS 2022 (co-located with Percom), MAISP 2021 (co-located with MobiSys), CLOUD S&P 2021 and 2020 (co-located with ACNS)
+* PC chair: SMARTCOMP 2024 (industry track) and MobileServerless 2021
+* PC member (conferences): EdgeSys 2024, ESORICS 2024, 2023 and 2022, TMA 2023 and 2022, PST 2022 and PAM 2021
+* PC member (workshops): LESS 2024, 2023 AND 2022 (co-located with Percom), MECC 2024, Security6G 2023, SecSoft 2023, ANT 2022, SSR 2022, MAISP 2021 (co-located with MobiSys), CLOUD S&P 2021 and 2020 (co-located with ACNS)
 
 * Conference Reviewer: CHES 2023, ECML-PKDD 2023 (demo reviews), INFOCOM 2022 (x2), 2021 and 2020 (x2), Euro S&P 2020 and 2018, IEEE NFV-SDN 2021, 2020 and 2019, ICICS 2020, ASHES 2019 and 2017, ESORICS 2019 (x3), IEEE TrustCom 2019, WISTP 2018 and 2016, GIIS 2018, IEEE MASS 2018, DAC 2016, AsiaCCS 2016, Eurocrypt 2016 and Space 2014.
 * Journal Reviewer: IEEE Communications Surveys & Tutorials, IEEE Transactions on Services Computing, Computer Networks, Journal of Computer Security, Concurrency and Computation: Practice and Experience, IEEE Transactions on Information Forensics and Security, Computers & Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Network and Service Management, Expert Review of Medical Devices, Security and Communication Networks, IEEE Journal of Biomedical and Health Informatics, and Sensors
