@@ -25,34 +25,6 @@ In 2018, I obtained a PhD degree from the [COSIC research group](https://www.esa
 In the past I graduated as a Telecommunications Engineer at the Universitat Politècnica de Catalunya (UPC) (Spain) with the master thesis [Security analysis of an implantable cardioverter defibrillator](https://www.esat.kuleuven.be/cosic/publications/thesis-231.pdf) developed at COSIC within the ERASMUS framework. After obtaining my PhD, I was a visiting research fellow in the [SPRITZ group](https://spritz.math.unipd.it/) at the University of Padua (Italy) and a research fellow in the [Security and Privacy group](https://www.birmingham.ac.uk/research/centre-for-cyber-security-and-privacy/index.aspx) at the University of Birmingham (UK).
 
 
-# Recent News
-
-
-* Dec, 2023. The proposal I submitted to the CLOUDLESS project (NextGenerationEU) has been accepted!
-* Oct, 2023. Alessio has joined our group as an intern. He'll work with me on container/serverless security for six months. Welcome Alessio!
-* Oct, 2023. Invited to serve as industry co-chair at IEEE SMARTCOMP 2024
-* Oct, 2023. Our paper "Security in Cloud-Native Services: A Survey" has been accepted at Journal of Cybersecurity and Privacy 2023
-* Jan, 2023. Invited to serve on the PC of ESORICS and TMA
-* Dec, 2022. Our paper "HAT: Secure and Practical Key Establishment for Implantable Medical Devices" has been accepted at CODASPY 2023.
-* Sep, 2022. Our magazine paper "Serverless Computing: A Security Perspective" has been accepted at the Journal of Cloud Computing
-* Sep, 2022. Our paper "Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic" has been accepted at ACSAC 2022
-* May, 2022. Bernardo has joined our group as an intern. He'll work with me on SDN/P4 security for six months. Welcome Bernardo!
-* May, 2022. Our paper "Primitives for Finite Field Arithmetic in Network Switches" has been accepted at P4 workshop 2022
-* Mar, 2022. Seven of the proposals we submitted to EU calls have been accepted!. I was involved in four of them
-* Mar, 2022. Our paper "PPFL: Enhancing Privacy in Federated Learning with Confidential Computing" has been accepted at ACM GetMobile 2022
-* Mar, 2022. Our paper "Symbolon: Enabling Flexible Multi-device-based User Authentication" has been accepted at IEEE DSC 2022
-* Mar, 2022. Our paper "Privacy-preserving AI for future networks" has been accepted at CACM 2022
-* Oct, 2021. Our paper "EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation" has been accepted at NDSS 2022
-* Sep, 2021. Our paper "FuzzyKey: Comparing Fuzzy Cryptographic Primitives on Resource-Constrained Devices" has been accepted at CARDIS 2021
-* June, 2021. We wrote a paper on the security of serverless computing. Have a look at our paper [here](http://arxiv.org/abs/2107.03832)
-* June, 2021. Our MobiSys paper got the best paper award!  
-* Apr, 2021. Our work "Inter-operability and Orchestration in Heterogeneous Cloud/Edge Resources: the ACCORDION vision" has been accepted at FRAME 2021
-* Mar, 2021. Our work "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments" has been accepted at ACM MobiSys 2021
-* Feb, 2021. We are organising the [1st Workshop on Mobile Serverless (MobileServerless)](https://www.it.uc3m.es/mbsvless21/), co-located with ACM MobiSys 2021 in a virtual (on-line) format. Please consider submitting your work.
-* Dec, 2020. We wrote an article entitled "Software Defined Networking privacy" for the (3rd) edition of Encyclopedia of Cryptography, Security, and Privacy. Stay tuned!
-* May, 2020. Our work "Remote monitoring of cardiac implanted electronic devices – legal requirements and ethical principles ESC REGULATORY AFFAIRS / EHRA JOINT TASK FORCE REPORT" has been accepted at EP Europace 2020. This paper is the result of a collaboration with the European Society of Cardiology (ESC).
-* May, 2020. I have joined Telefonica Research as a Researcher!
-
 # Talks
 
 * "Serverless computing: A security perspective", Cloud Infrastructure Management, Security and Confidential Computing Workshop, 8 Nov 2023
@@ -90,7 +62,7 @@ In the past I graduated as a Telecommunications Engineer at the Universitat Poli
 
 # Academic Services
 * PC chair: SMARTCOMP 2024 (industry track) and MobileServerless 2021
-* PC member (conferences): EdgeSys 2024, ESORICS 2024, 2023 and 2022, TMA 2023 and 2022, PST 2022 and PAM 2021
+* PC member (conferences): ACSAC 2024, EdgeSys 2024, ESORICS 2024, 2023 and 2022, TMA 2023 and 2022, PST 2022 and PAM 2021
 * PC member (workshops): LESS 2024, 2023 AND 2022 (co-located with Percom), MECC 2024, Security6G 2023, SecSoft 2023, ANT 2022, SSR 2022, MAISP 2021 (co-located with MobiSys), CLOUD S&P 2021 and 2020 (co-located with ACNS)
 
 * Conference Reviewer: CHES 2023, ECML-PKDD 2023 (demo reviews), INFOCOM 2022 (x2), 2021 and 2020 (x2), Euro S&P 2020 and 2018, IEEE NFV-SDN 2021, 2020 and 2019, ICICS 2020, ASHES 2019 and 2017, ESORICS 2019 (x3), IEEE TrustCom 2019, WISTP 2018 and 2016, GIIS 2018, IEEE MASS 2018, DAC 2016, AsiaCCS 2016, Eurocrypt 2016 and Space 2014.
