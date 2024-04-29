@@ -11,7 +11,6 @@ author_profile: true
 <b>[Dynamic Frequency-Based Fingerprinting Attacks against Modern Sandbox Environments]()</b> <br>
 D. Roy Dipta, T. Tiemann, B. Gulmezoglu, <b>E. Marin</b> and T. Eisenbarth.
 IEEE European Symposium on Security and Privacy <b>(Euro S&P 2024)</b>
-S. Duttagupta, <b>E. Marin</b>, D. Singelée and B. Preneel.
 
 <br>
 <b>[HAT: Secure and Practical Key Establishment for Implantable Medical Devices]()</b> <br>
