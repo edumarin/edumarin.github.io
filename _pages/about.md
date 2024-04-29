@@ -12,17 +12,10 @@ redirect_from:
 [comment]: <>  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 [comment]: <> </p>
 
-# About Me
+# Bio
 
-I am a Research Scientist at [Telefonica Research](https://www.telefonica.com/en/web/innovation/core-innovation/research) in Barcelona, Spain.
+I am a Research Scientist at [Telefonica Research](https://www.telefonica.com/en/web/innovation/core-innovation/research), focusing on research problems at the intersection of security, networking, and systems. In 2018, I obtained a PhD degree from the [COSIC research group](https://www.esat.kuleuven.be/cosic/) (KU Leuven, Belgium) under the supervision of Prof. Bart Preneel and Dr. Dave Singelée. My doctoral thesis is entitled [Security and Privacy of Implantable Medical Devices](https://www.esat.kuleuven.be/cosic/publications/thesis-302.pdf). Following my PhD, I held positions as a visiting research fellow at the University of Padua (Italy) and as a research fellow at the University of Birmingham (UK). Throughout my career, I have published several papers in Core A/A* conferences such as CCS, NDSS, MobySys, TCHES, ACSAC and Euro S&P. Besides, I have contributed to the acquisition and execution of several national and European projects, worked on ideas that led to four patents, and have successfully supervised several bachelor, master's and Ph.D. students. Currently, my work focuses on the security of new networking and computing paradigms and arquitectures such as Software Defined Networking (SDN), Network Function Virtualisation (NFV), programmable data planes (e.g., through P4), containers or serverless computing.
 
-I am also a collaborator professor at the Universitat Oberta de Catalunya (UOC).
-
-My research interests lie in the areas of Networks and Security. Currently, my work focuses on the security of new networking and computing paradigms such as Software Defined Networking (SDN), Network Function Virtualisation (NFV), programmable data planes (e.g., through P4), containers or serverless computing.
-
-In 2018, I obtained a PhD degree from the [COSIC research group](https://www.esat.kuleuven.be/cosic/) (KU Leuven, Belgium) under the supervision of Prof Bart Preneel and Dr Dave Singelée. My doctoral thesis is entitled [Security and Privacy of Implantable Medical Devices](https://www.esat.kuleuven.be/cosic/publications/thesis-302.pdf).
-
-In the past I graduated as a Telecommunications Engineer at the Universitat Politècnica de Catalunya (UPC) (Spain) with the master thesis [Security analysis of an implantable cardioverter defibrillator](https://www.esat.kuleuven.be/cosic/publications/thesis-231.pdf) developed at COSIC within the ERASMUS framework. After obtaining my PhD, I was a visiting research fellow in the [SPRITZ group](https://spritz.math.unipd.it/) at the University of Padua (Italy) and a research fellow in the [Security and Privacy group](https://www.birmingham.ac.uk/research/centre-for-cyber-security-and-privacy/index.aspx) at the University of Birmingham (UK).
 
 
 # Talks
