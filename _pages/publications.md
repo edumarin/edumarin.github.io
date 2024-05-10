@@ -91,6 +91,12 @@ International Conference on Ad Hoc Networks and Wireless <b>(ADHOC-NOW 2016)</b>
 
 
 # Journals
+
+<br>
+<b>[Ambusher: Exploring the Security of Distributed SDN Controllers through Protocol State Fuzzing]()</b> <br>
+J. Kim, M. Seo, <b>E. Marin</b>, S. Lee, J. Nam, and S. Shin
+IEEE Transactions on Information Forensics and Security <b>(TIFS 2024)</b>
+
 <br>
 <b>[Security in Cloud-Native Services: A Survey ]()</b> <br>
 T. Theodoropoulos, L. Rosa, C. Benzaid, P. Gray, <b>E. Marin</b>, A. Makris, L. Cordeiro, F. Diego, P. Sorokin, M. Di Girolamo, P. Barone, T. Taleb, K. Tserpes.
@@ -129,6 +135,12 @@ Transactions on Cryptographic Hardware and Embedded Systems <b>(TCHES 2019)</b> 
 
 
 # Workshops and posters
+
+
+<br>
+<b>[Building the Cloud Continuum with REAR]()</b> <br>
+S. Galantino, E. Albanese, N. Asadov, S. Braghin, F. Cappa, A. Colli-Vignarelli, A. Majid, E. Marin, J. Marino, L. Moro, L. Nedoshivina, F. Risso, D. Siracusa, A. Skarmeta and L. Zuanazzi
+3rd International Workshop on Edge Network Softwarization<b>(ENS 2024)</b>
 
 <br>
 <b>[Primitives for Finite Field Arithmetic in Network Switches]()</b> <br>
