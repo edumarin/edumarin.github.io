@@ -139,8 +139,8 @@ Transactions on Cryptographic Hardware and Embedded Systems <b>(TCHES 2019)</b> 
 
 <br>
 <b>[Building the Cloud Continuum with REAR]()</b> <br>
-S. Galantino, E. Albanese, N. Asadov, S. Braghin, F. Cappa, A. Colli-Vignarelli, A. Majid, E. Marin, J. Marino, L. Moro, L. Nedoshivina, F. Risso, D. Siracusa, A. Skarmeta and L. Zuanazzi.
-3rd International Workshop on Edge Network Softwarization<b>(ENS 2024)</b>
+S. Galantino, E. Albanese, N. Asadov, S. Braghin, F. Cappa, A. Colli-Vignarelli, A. Majid, <b>E. Marin</b>, J. Marino, L. Moro, L. Nedoshivina, F. Risso, D. Siracusa, A. Skarmeta and L. Zuanazzi.
+3rd International Workshop on Edge Network Softwarization <b>(ENS 2024)</b>
 
 <br>
 <b>[Primitives for Finite Field Arithmetic in Network Switches]()</b> <br>
