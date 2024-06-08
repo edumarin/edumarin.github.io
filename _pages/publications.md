@@ -2,6 +2,7 @@
 title: " "
 
 permalink: /publications/
+
 author_profile: true
 ---
 
@@ -13,23 +14,23 @@ D. Roy Dipta, T. Tiemann, B. Gulmezoglu, <b>E. Marin</b> and T. Eisenbarth.
 IEEE European Symposium on Security and Privacy <b>(Euro S&P 2024)</b>
 
 <br>
-<b>[HAT: Secure and Practical Key Establishment for Implantable Medical Devices]()</b> <br>
+<b>[HAT: Secure and Practical Key Establishment for Implantable Medical Devices](https://dl.acm.org/doi/abs/10.1145/3577923.3583646)</b> <br>
 S. Duttagupta, <b>E. Marin</b>, D. Singelée and B. Preneel.
 ACM Conference on Data and Application Security and Privacy <b>(CODASPY 2023)</b>
 
 <br>
-<b>[Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic]()</b> <br>
+<b>[Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic](https://cclab-inu.com/papers/2022_seo_acsac.pdf)</b> <br>
 M. Seo, J. Kim, <b>E. Marin</b>, M. You, T. Park, S. Lee, S. Shin and J. Kim.
 Annual Computer Security Applications Conference <b>(ACSAC 2022)</b> (acceptance rate: 24%)
 
 <br>
-<b>[Symbolon: Enabling Flexible Multi-device-based User Authentication]()</b> <br>
+<b>[Symbolon: Enabling Flexible Multi-device-based User Authentication](https://www.cs.bham.ac.uk/~mdr/research/papers/pdf/22-symbolon.pdf)</b> <br>
 T. Laing+, <b>E. Marin+</b>, M. Ryan+, J. Schiffman+ and G. Wattiau+.
 IEEE Conference on Dependable and Secure Computing <b>(IEEE DSC 2022)</b>
 
 
 <br>
-<b>[EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation]()</b> <br>
+<b>[EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation](https://www.ndss-symposium.org/wp-content/uploads/2022-154-paper.pdf)</b> <br>
 J. Kim+, <b>E. Marin+</b>, M. Conti and S. Shin.
 Network and Distributed System Security Symposium <b>(NDSS 2022)</b> (acceptance rate: 16,2%)
 
@@ -98,22 +99,22 @@ J. Kim, M. Seo, <b>E. Marin</b>, S. Lee, J. Nam, and S. Shin.
 IEEE Transactions on Information Forensics and Security <b>(TIFS 2024)</b>
 
 <br>
-<b>[Security in Cloud-Native Services: A Survey ]()</b> <br>
+<b>[Security in Cloud-Native Services: A Survey](https://www.mdpi.com/2624-800X/3/4/34)</b> <br>
 T. Theodoropoulos, L. Rosa, C. Benzaid, P. Gray, <b>E. Marin</b>, A. Makris, L. Cordeiro, F. Diego, P. Sorokin, M. Di Girolamo, P. Barone, T. Taleb, K. Tserpes.
 <b>(Journal of Cybersecurity and Privacy​ 2023)</b>
 
 <br>
-<b>[Serverless Computing: A Security Perspective]()</b> <br>
+<b>[Serverless Computing: A Security Perspective](https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-022-00347-w)</b> <br>
 <b>E. Marin</b>, D. Perino, R. Di Pietro.
 <b>(Journal of Cloud Computing)</b>
 
 <br>
-<b>[PPFL: Enhancing Privacy in Federated Learning with Confidential Computing]()</b> <br>
+<b>[PPFL: Enhancing Privacy in Federated Learning with Confidential Computing](https://dl.acm.org/doi/10.1145/3529706.3529715)</b> <br>
 F. Mo, H. Haddadi, K. Katevas, <b>E. Marin</b>, D. Perino, N. Kourtellis.
 <b>(ACM GetMobile 2022)</b>
 
 <br>
-<b>[Privacy-preserving AI for future networks]()</b> <br>
+<b>[Privacy-preserving AI for future networks](https://cacm.acm.org/research/privacy-preserving-ai-for-future-networks/)</b> <br>
 D. Perino, K. Katevas, A. Lutu, <b>E. Marin</b>, N. Kourtellis.
 Communications of the ACM <b>(CACM 2022)</b>
 
@@ -136,6 +137,10 @@ Transactions on Cryptographic Hardware and Embedded Systems <b>(TCHES 2019)</b> 
 
 # Workshops and posters
 
+<br>
+<b>[OOBKey: Key Exchange with Implantable Medical Devices Using Out-Of-Band Channels]()</b> <br>
+M. Zhang, <b>E. Marin</b>, M. Ryan, V. Kostakos, T. Murray, B. Tag and D. Oswald
+21th International Workshop on Trust, Privacy and Security in the Digital Society <b>(TrustBus 2024)</b>
 
 <br>
 <b>[Building the Cloud Continuum with REAR]()</b> <br>

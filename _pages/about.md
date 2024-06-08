@@ -20,6 +20,8 @@ I am a Research Scientist at [Telefonica Research](https://www.telefonica.com/en
 
 # Talks
 
+* "Security and privacy in the next-generation networks", 42 Barcelona, 28 May 2024​
+* "Artificial intelligence and decentralized privacy preserving mechanisms for telco industry”, University of Murcia (online), 12 March 2024
 * "Serverless computing: A security perspective", Cloud Infrastructure Management, Security and Confidential Computing Workshop, 8 Nov 2023
 * "Serverless computing: A security perspective", WoSCx2, 22 June 2023
 * "The evolution of cloud computing: A security perspective", Keynote at Conference on Concurrence and Distributed Systems (JCSD), 20 June 2023
@@ -55,7 +57,7 @@ I am a Research Scientist at [Telefonica Research](https://www.telefonica.com/en
 
 # Academic Services
 * PC chair: SMARTCOMP 2024 (industry track) and MobileServerless 2021
-* PC member (conferences): ACSAC 2024, EdgeSys 2024, ESORICS 2024, 2023 and 2022, TMA 2023 and 2022, PST 2022 and PAM 2021
+* PC member (conferences): ACSAC 2024, EdgeSys 2024, ESORICS 2024, 2023 and 2022, TMA 2024, 2023 and 2022, PST 2022 and PAM 2021
 * PC member (workshops): LESS 2024, 2023 and 2022 (co-located with Percom), MECC 2024, SecSoft 2023, ANT 2022, SSR 2022, MAISP 2021 (co-located with MobiSys), CLOUD S&P 2021 and 2020 (co-located with ACNS)
 
 * Conference Reviewer: CHES 2023, ECML-PKDD 2023 (demo reviews), INFOCOM 2022 (x2), 2021 and 2020 (x2), Euro S&P 2020 and 2018, IEEE NFV-SDN 2021, 2020 and 2019, ICICS 2020, ASHES 2019 and 2017, ESORICS 2019 (x3), IEEE TrustCom 2019, WISTP 2018 and 2016, GIIS 2018, IEEE MASS 2018, DAC 2016, AsiaCCS 2016, Eurocrypt 2016 and Space 2014.
