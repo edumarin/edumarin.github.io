@@ -139,7 +139,7 @@ Transactions on Cryptographic Hardware and Embedded Systems <b>(TCHES 2019)</b> 
 
 <br>
 <b>[P4Chaskey: An Efficient MAC Algorithm for PISA Switches]()</b> <br>
-M. Francisco, B. Ferreira, F. Ramos, <b>E. Marin</b> and S. Signorello
+M. Francisco, B. Ferreira, F. Ramos, <b>E. Marin</b> and S. Signorello.
 7th European P4 Workshop <b>(EuroP4’24)</b>
 
 <br>
