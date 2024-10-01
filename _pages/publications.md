@@ -94,7 +94,7 @@ International Conference on Ad Hoc Networks and Wireless <b>(ADHOC-NOW 2016)</b>
 # Journals
 
 <br>
-<b>[Ambusher: Exploring the Security of Distributed SDN Controllers through Protocol State Fuzzing]()</b> <br>
+<b>[Ambusher: Exploring the Security of Distributed SDN Controllers through Protocol State Fuzzing](https://ieeexplore.ieee.org/document/10534286)</b> <br>
 J. Kim, M. Seo, <b>E. Marin</b>, S. Lee, J. Nam, and S. Shin.
 IEEE Transactions on Information Forensics and Security <b>(TIFS 2024)</b>
 
@@ -138,8 +138,13 @@ Transactions on Cryptographic Hardware and Embedded Systems <b>(TCHES 2019)</b> 
 # Workshops and posters
 
 <br>
+<b>[P4Chaskey: An Efficient MAC Algorithm for PISA Switches]()</b> <br>
+M. Francisco, B. Ferreira, F. Ramos, <b>E. Marin</b> and S. Signorello
+7th European P4 Workshop <b>(EuroP4’24)</b>
+
+<br>
 <b>[OOBKey: Key Exchange with Implantable Medical Devices Using Out-Of-Band Channels]()</b> <br>
-M. Zhang, <b>E. Marin</b>, M. Ryan, V. Kostakos, T. Murray, B. Tag and D. Oswald
+M. Zhang, <b>E. Marin</b>, M. Ryan, V. Kostakos, T. Murray, B. Tag and D. Oswald.
 21th International Workshop on Trust, Privacy and Security in the Digital Society <b>(TrustBus 2024)</b>
 
 <br>
