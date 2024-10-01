@@ -6,8 +6,6 @@ author_profile: true
 
 ---
 
-# Talks and Presentations
-
 * "Security and privacy in the next-generation networks", 42 Barcelona, 28 May 2024​
 * "Artificial intelligence and decentralized privacy preserving mechanisms for telco industry”, University of Murcia (online), 12 March 2024
 * "Serverless computing: A security perspective", Cloud Infrastructure Management, Security and Confidential Computing Workshop, 8 Nov 2023
