@@ -17,11 +17,52 @@ I am a Senior Research Scientist and team lead at [Telefonica Research](https://
 
 # Selected Publications
 
+<br>
+<b>[Dynamic Frequency-Based Fingerprinting Attacks against Modern Sandbox Environments]()</b> <br>
+D. Roy Dipta, T. Tiemann, B. Gulmezoglu, <b>E. Marin</b> and T. Eisenbarth.
+IEEE European Symposium on Security and Privacy <b>(Euro S&P 2024)</b>
 
-# Academic Service
-* PC chair: SMARTCOMP 2024 (industry track) and MobileServerless 2021
-* PC member (conferences): USENIX 2025, ACSAC 2024, EdgeSys 2024, ESORICS 2024, 2023 and 2022, TMA 2024, 2023 and 2022, PST 2022 and PAM 2021
-* PC member (workshops): LESS 2024, 2023 and 2022 (co-located with Percom), MECC 2024, SecSoft 2023, ANT 2022, SSR 2022, MAISP 2021 (co-located with MobiSys), CLOUD S&P 2021 and 2020 (co-located with ACNS)
+<br>
+<b>[Ambusher: Exploring the Security of Distributed SDN Controllers through Protocol State Fuzzing](https://ieeexplore.ieee.org/document/10534286)</b> <br>
+J. Kim, M. Seo, <b>E. Marin</b>, S. Lee, J. Nam, and S. Shin.
+IEEE Transactions on Information Forensics and Security <b>(TIFS 2024)</b>
 
-* Conference Reviewer: CHES 2023, ECML-PKDD 2023 (demo reviews), INFOCOM 2022 (x2), 2021 and 2020 (x2), Euro S&P 2020 and 2018, IEEE NFV-SDN 2021, 2020 and 2019, ICICS 2020, ASHES 2019 and 2017, ESORICS 2019 (x3), IEEE TrustCom 2019, WISTP 2018 and 2016, GIIS 2018, IEEE MASS 2018, DAC 2016, AsiaCCS 2016, Eurocrypt 2016 and Space 2014.
-* Journal Reviewer: IEEE Communications Surveys & Tutorials, IEEE Transactions on Services Computing, Computer Networks, Journal of Computer Security, Concurrency and Computation: Practice and Experience, IEEE Transactions on Information Forensics and Security, Computers & Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Network and Service Management, Expert Review of Medical Devices, Security and Communication Networks, IEEE Journal of Biomedical and Health Informatics, and Sensors
+<br>
+<b>[Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic](https://cclab-inu.com/papers/2022_seo_acsac.pdf)</b> <br>
+M. Seo, J. Kim, <b>E. Marin</b>, M. You, T. Park, S. Lee, S. Shin and J. Kim.
+Annual Computer Security Applications Conference <b>(ACSAC 2022)</b> (acceptance rate: 24%)
+
+<br>
+<b>[EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation](https://www.ndss-symposium.org/wp-content/uploads/2022-154-paper.pdf)</b> <br>
+J. Kim+, <b>E. Marin+</b>, M. Conti and S. Shin.
+Network and Distributed System Security Symposium <b>(NDSS 2022)</b> (acceptance rate: 16,2%)
+
+<br>
+<b>[PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments](https://dl.acm.org/doi/10.1145/3458864.3466628)</b> <br>
+F. Mo, H. Haddadi, K. Katevas, <b>E. Marin</b>, D. Perino and N. Kourtellis.
+ACM International Conference on Mobile Systems, Applications, and Services <b>(MobiSys 2021)</b> (acceptance rate: 22%)
+
+<br>
+<b>[An In-depth Look Into SDN Topology Discovery Mechanisms: Novel Attacks and Practical Countermeasures](https://dl.acm.org/doi/10.1145/3319535.3354194)</b> <br>
+<b>E. Marin</b>, N. Bucciol and M. Conti.
+ACM Conference on Computer and Communications Security <b>(CCS 2019)</b> (acceptance rate: 16%)
+
+<br>
+<b>[A Tale of Two Worlds: Assessing the Vulnerability of Enclave Shielding Runtimes](https://dl.acm.org/doi/10.1145/3319535.3363206)</b> <br>
+J. Van Bulck, D. Oswald, <b>E. Marin</b>, A. Aldoseri, F. D. Garcia and F. Piessens.
+ACM Conference on Computer and Communications Security <b>(CCS 2019)</b> (acceptance rate: 16%)
+
+<br>
+<b>[Fast, Furious and Insecure: Passive Keyless Entry and Start Systems in Modern Supercars](https://tches.iacr.org/index.php/TCHES/article/view/8289)</b> <br>
+L. Wouters, <b>E. Marin</b>, T. Ashur, B. Gierlichs and B. Preneel.
+Transactions on Cryptographic Hardware and Embedded Systems <b>(TCHES 2019)</b> ([Site](https://www.esat.kuleuven.be/cosic/passive-keyless-entry/)).
+
+<br>
+<b>[Physical-Layer Fingerprinting of LoRa devices using Supervised and Zero-Shot Learning](https://dl.acm.org/doi/10.1145/3098243.3098267)</b> <br>
+P. Robyns+, <b>E. Marin+</b>, W. Lamotte, P. Quax, D. Singelée and B. Preneel.
+ACM Conference on Security & Privacy in Wireless and Mobile Networks <b>(WiSec 2017)</b> (acceptance rate: 22%)
+
+<br>
+<b>[On the (in)security of the Latest Generation Implantable Cardiac Defibrillators](https://dl.acm.org/doi/10.1145/2991079.2991094)</b> <br>
+<b>E. Marin</b>, D. Singelée, F. Garcia, T. Chothia, R. Willems and B. Preneel.
+ACM Annual Computer Security Applications Conference <b>(ACSAC 2016)</b> (acceptance rate: 23%)
