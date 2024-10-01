@@ -8,7 +8,7 @@ main:
   #- title: "# Academic Service"
   #   url: /academic_service/
 
-  #- title: "Talks"
+  - title: "Talks"
   #   url: /talks/
 
   # - title: "Teaching"
