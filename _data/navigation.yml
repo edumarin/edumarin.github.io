@@ -5,11 +5,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Awards & Honors"
-  #   url: /awards/
+  - title: "# Academic Service"
+     url: /academic_service/
 
-  #- title: "Talks"
-  #   url: /talks/
+  - title: "Talks"
+     url: /talks/
 
   # - title: "Teaching"
   #   url: /teaching/
