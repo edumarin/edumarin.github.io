@@ -5,7 +5,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "# Academic Service"
+  - title: "Academic Service"
     url: /academicservice/
 
   - title: "Talks"
@@ -20,8 +20,8 @@ main:
   # - title: "Blogs"
   #   url: /year-archive/
 
-  - title: "Contact"
-    url: /contact/
+  #- title: "Contact"
+  #  url: /contact/
 
   # - title: "Guide"
     # url: /markdown/
