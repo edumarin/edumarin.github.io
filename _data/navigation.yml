@@ -9,7 +9,7 @@ main:
   #   url: /academic_service/
 
   - title: "Talks"
-  #   url: /talks/
+    url: /talks/
 
   # - title: "Teaching"
   #   url: /teaching/
