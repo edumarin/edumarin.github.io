@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[comment]: <> <p align="center">
-[comment]: <>  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/>
-[comment]: <> </p>
 
 # Bio
 
