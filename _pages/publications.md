@@ -9,7 +9,7 @@ author_profile: true
 
 <br>
 <b>[PathSafe: Secure Path Verification in Software-Defined Networks ]()</b> <br>
-D. Monaco, N. Antonijevic, S. Duttagupta, D. Singelee, A. Sacco, E. Marin and B. Preneel
+D. Monaco, N. Antonijevic, S. Duttagupta, D. Singelee, A. Sacco, E. Marin and B. Preneel.
 IEEE/IFIP Network Operations and Management Symposium <b>(NOMS 2025)</b>
 
 <br>
@@ -149,7 +149,7 @@ Transactions on Cryptographic Hardware and Embedded Systems <b>(TCHES 2019)</b> 
 <br>
 <b>[P4Chaskey: An Efficient MAC Algorithm for PISA Switches]()</b> <br>
 M. Francisco, B. Ferreira, F. Ramos, <b>E. Marin</b> and S. Signorello.
-7th European P4 Workshop <b>(EuroP4’24)</b>
+7th European P4 Workshop <b>(EuroP4 2024)</b>
 
 <br>
 <b>[OOBKey: Key Exchange with Implantable Medical Devices Using Out-Of-Band Channels]()</b> <br>
