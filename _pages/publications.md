@@ -6,6 +6,12 @@ author_profile: true
 
 # Conferences
 
+
+<br>
+<b>[PathSafe: Secure Path Verification in Software-Defined Networks ]()</b> <br>
+D. Monaco, N. Antonijevic, S. Duttagupta, D. Singelee, A. Sacco, E. Marin and B. Preneel
+IEEE/IFIP Network Operations and Management Symposium <b>(NOMS 2025)</b>
+
 <br>
 <b>[Dynamic Frequency-Based Fingerprinting Attacks against Modern Sandbox Environments]()</b> <br>
 D. Roy Dipta, T. Tiemann, B. Gulmezoglu, <b>E. Marin</b> and T. Eisenbarth.
@@ -90,6 +96,11 @@ International Conference on Ad Hoc Networks and Wireless <b>(ADHOC-NOW 2016)</b>
 
 
 # Journals
+
+<br>
+<b>[ARASEC: Adaptive Resource Allocation and Model Training for Serverless Edge-Cloud Computing ]()</b> <br>
+D. Katare, E. Marin, N. Kourtellis, M. Janssen and A. Yi Ding
+<b> IEEE Internet Computing 2024)</b>
 
 <br>
 <b>[Ambusher: Exploring the Security of Distributed SDN Controllers through Protocol State Fuzzing](https://ieeexplore.ieee.org/document/10534286)</b> <br>
