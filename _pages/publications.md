@@ -100,7 +100,7 @@ International Conference on Ad Hoc Networks and Wireless <b>(ADHOC-NOW 2016)</b>
 <br>
 <b>[ARASEC: Adaptive Resource Allocation and Model Training for Serverless Edge-Cloud Computing ]()</b> <br>
 D. Katare, <b>E. Marin</b>, N. Kourtellis, M. Janssen and A. Yi Ding
-<b> IEEE Internet Computing 2024)</b>
+<b> (IEEE Internet Computing 2024)</b>
 
 <br>
 <b>[Ambusher: Exploring the Security of Distributed SDN Controllers through Protocol State Fuzzing](https://ieeexplore.ieee.org/document/10534286)</b> <br>
