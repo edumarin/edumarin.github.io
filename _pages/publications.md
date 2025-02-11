@@ -10,7 +10,7 @@ author_profile: true
 <br>
 <b>[PathSafe: Secure Path Verification in Software-Defined Networks ]()</b> <br>
 D. Monaco, N. Antonijevic, S. Duttagupta, D. Singelee, A. Sacco, E. Marin and B. Preneel.
-IEEE/IFIP Network Operations and Management Symposium <b>(NOMS 2025)</b>
+IFIP Network Operations and Management Symposium <b>(NOMS 2025)</b>
 
 <br>
 <b>[Dynamic Frequency-Based Fingerprinting Attacks against Modern Sandbox Environments]()</b> <br>
