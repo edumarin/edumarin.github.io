@@ -9,7 +9,7 @@ author_profile: true
 
 <br>
 <b>[PathSafe: Secure Path Verification in Software-Defined Networks ]()</b> <br>
-D. Monaco, N. Antonijevic, S. Duttagupta, D. Singelee, A. Sacco, E. Marin and B. Preneel.
+D. Monaco, N. Antonijevic, S. Duttagupta, D. Singelee, A. Sacco, <b>E. Marin</b> and B. Preneel.
 IFIP Network Operations and Management Symposium <b>(NOMS 2025)</b>
 
 <br>
@@ -99,7 +99,7 @@ International Conference on Ad Hoc Networks and Wireless <b>(ADHOC-NOW 2016)</b>
 
 <br>
 <b>[ARASEC: Adaptive Resource Allocation and Model Training for Serverless Edge-Cloud Computing ]()</b> <br>
-D. Katare, E. Marin, N. Kourtellis, M. Janssen and A. Yi Ding
+D. Katare, <b>E. Marin</b>, N. Kourtellis, M. Janssen and A. Yi Ding
 <b> IEEE Internet Computing 2024)</b>
 
 <br>
