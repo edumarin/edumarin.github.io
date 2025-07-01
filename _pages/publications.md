@@ -6,6 +6,10 @@ author_profile: true
 
 # Conferences
 
+<br>
+<b>[The Hidden Dangers of Public Serverless Repositories: An Empirical Security Assessment]()</b> <br>
+<b>E. Marin</b>, J. Kim, A. Pavoni1, M. Conti and R. Di Pietro.
+European Symposium on Research in Computer Security (ESORICS 2025)</b>
 
 <br>
 <b>[PathSafe: Secure Path Verification in Software-Defined Networks ]()</b> <br>
@@ -99,7 +103,7 @@ International Conference on Ad Hoc Networks and Wireless <b>(ADHOC-NOW 2016)</b>
 
 <br>
 <b>[ARASEC: Adaptive Resource Allocation and Model Training for Serverless Edge-Cloud Computing ]()</b> <br>
-D. Katare, <b>E. Marin</b>, N. Kourtellis, M. Janssen and A. Yi Ding
+D. Katare, <b>E. Marin</b>, N. Kourtellis, M. Janssen and A. Yi Ding.
 <b> (IEEE Internet Computing 2024)</b>
 
 <br>

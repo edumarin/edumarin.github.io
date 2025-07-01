@@ -18,6 +18,11 @@ I am a Senior Research Scientist and team leader at [Telefonica Research](https:
 # Selected Publications
 
 <br>
+<b>[The Hidden Dangers of Public Serverless Repositories: An Empirical Security Assessment]()</b> <br>
+<b>E. Marin</b>, J. Kim, A. Pavoni1, M. Conti and R. Di Pietro.
+European Symposium on Research in Computer Security (ESORICS 2025)</b>
+
+<br>
 <b>[Dynamic Frequency-Based Fingerprinting Attacks against Modern Sandbox Environments]()</b> <br>
 D. Roy Dipta, T. Tiemann, B. Gulmezoglu, <b>E. Marin</b> and T. Eisenbarth.
 IEEE European Symposium on Security and Privacy <b>(Euro S&P 2024)</b>
