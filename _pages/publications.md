@@ -8,7 +8,7 @@ author_profile: true
 
 <br>
 <b>[The Hidden Dangers of Public Serverless Repositories: An Empirical Security Assessment]()</b> <br>
-<b>E. Marin</b>, J. Kim, A. Pavoni1, M. Conti and R. Di Pietro.
+<b>E. Marin</b>, J. Kim, A. Pavoni, M. Conti and R. Di Pietro.
 European Symposium on Research in Computer Security <b>(ESORICS 2025)</b>
 
 <br>
