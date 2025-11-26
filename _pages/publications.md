@@ -102,7 +102,19 @@ International Conference on Ad Hoc Networks and Wireless <b>(ADHOC-NOW 2016)</b>
 # Journals
 
 <br>
-<b>[ARASEC: Adaptive Resource Allocation and Model Training for Serverless Edge-Cloud Computing ]()</b> <br>
+<b>[BeaCon: Automatic Container Policy Generation using Environment-aware Dynamic Analysis]()</b> <br>
+H. Kang, <b>E. Marin</b>, M. You, D. Perino, S. Shin and J. Kim
+<b> (Computers & Security 2025)</b>
+
+
+<br>
+<b>[Using Vibration for Secure Pairing with Implantable Medical Devices: Development and Usability Study](https://pubmed.ncbi.nlm.nih.gov/40856633/)</b> <br>
+M. Zhang, C. Wang, W. Jiang, D. Oswald, T. Murray, <b>E. Marin</b>, J. Wei, M. Ryan and V. Kostakos.
+<b> (JMIR Biomedical Engineering 2025)</b>
+
+
+<br>
+<b>[ARASEC: Adaptive Resource Allocation and Model Training for Serverless Edge-Cloud Computing](https://ieeexplore.ieee.org/document/10794754)</b> <br>
 D. Katare, <b>E. Marin</b>, N. Kourtellis, M. Janssen and A. Yi Ding.
 <b> (IEEE Internet Computing 2024)</b>
 
