@@ -7,6 +7,11 @@ author_profile: true
 # Conferences
 
 <br>
+<b>[Waterfall: A Capsule-Based Framework for Evaluating Traffic Watermarking in Anonymity Systems]()</b> <br>
+D. Mankowski, <b>E. Marin</b>, N. Santos, V. Moonsamy
+Privacy Enhancing Technologies Symposium <b>(PETS 2026)</b>
+
+<br>
 <b>[The Hidden Dangers of Public Serverless Repositories: An Empirical Security Assessment]()</b> <br>
 <b>E. Marin</b>, J. Kim, A. Pavoni, M. Conti and R. Di Pietro.
 European Symposium on Research in Computer Security <b>(ESORICS 2025)</b>

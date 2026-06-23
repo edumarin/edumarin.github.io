@@ -6,6 +6,11 @@ author_profile: true
 
 ---
 
+* "Artificial intelligence and decentralized privacy preserving mechanisms for telco industry", University of Murcia (online), 17 Feb 2026
+* "When confidential isn't secure: Fingerprinting Attacks on TEE", IA382/FEEC/UNICAMP seminar (online), 23 Oct 2025
+* "The Hidden Dangers of Public Serverless Repositories: An Empirical Security Assessment" Talk at Esorics 2025, 24 Sep 2025
+* "Seguridad en repositorios públicos utilizados en el desarrollo de aplicaciones en la nube", Jornadas CISO (internal), 14 May 2025
+* "Artificial intelligence and decentralized privacy preserving mechanisms for telco industry", University of Murcia (online), 18 March 2025
 * "Towards software-defined, ​programmable, AI-based networks", Invited talk for Telco AI forum, Nov 19 2024
 * "Security and privacy in the next-generation networks", 42 Barcelona, 28 May 2024​
 * "Artificial intelligence and decentralized privacy preserving mechanisms for telco industry”, University of Murcia (online), 12 March 2024

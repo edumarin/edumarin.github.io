@@ -11,11 +11,15 @@ redirect_from:
 
 # Bio
 
-I am a Senior Research Scientist and team leader at [Telefonica Research](https://www.telefonica.com/en/web/innovation/core-innovation/research), where my work focuses on research at the intersection of security, networking and systems. In 2018, I obtained a PhD degree from the [COSIC research group](https://www.esat.kuleuven.be/cosic/) (KU Leuven, Belgium) under the supervision of Prof. Bart Preneel and Dr. Dave Singelée. My doctoral thesis is entitled [Security and Privacy of Implantable Medical Devices](https://www.esat.kuleuven.be/cosic/publications/thesis-302.pdf). Following my PhD, I held positions as a visiting research fellow at the University of Padua (Italy) and as a research fellow at the University of Birmingham (UK). Throughout my career, I have published several papers in Core A/A* conferences such as CCS, NDSS, MobiSys, TCHES, ACSAC and Euro S&P. Additionally, I have contributed to the acquisition and execution of several national and European projects, worked on ideas that resulted in five patents, and successfully supervised several bachelor’s, master’s, and PhD students. Currently, my work focuses on the security of new networking and computing paradigms and arquitectures such as Software Defined Networking (SDN), Network Function Virtualisation (NFV), programmable data planes (e.g., through P4), containers (and similar sandboxes), WebAssembly security, confidential computing or serverless computing, among others. Recently, I have also initiated a new research line in Cyber Threat Intelligence (CTI).
-
+I am a Senior Research Scientist and Team Leader at [Telefonica Research](https://www.telefonica.com/en/web/innovation/core-innovation/research), where I lead the Network and Cloud Security team. My research focuses on the intersection of security, networking and systems. In 2018, I obtained a PhD degree from the [COSIC research group](https://www.esat.kuleuven.be/cosic/) (KU Leuven, Belgium) under the supervision of Prof. Bart Preneel and Dr. Dave Singelée. My doctoral thesis, entitled [Security and Privacy of Implantable Medical Devices](https://www.esat.kuleuven.be/cosic/publications/thesis-302.pdf), explored the security and privacy challenges of implantable medical systems. Following my PhD, I held positions as a visiting research fellow at the University of Padua (Italy) and as a research fellow at the University of Birmingham (UK). Throughout my career, I have published research papers in leading Core A/A* venues, including CCS, NDSS, MobiSys, TCHES, ACSAC and Euro S&P. I have also contributed to the acquisition and execution of several national and European research projects, filled several patents, and supervised bachelor’s, master’s and PhD students.
 
 
 # Selected Publications
+
+<br>
+<b>[Waterfall: A Capsule-Based Framework for Evaluating Traffic Watermarking in Anonymity Systems]()</b> <br>
+D. Mankowski, <b>E. Marin</b>, N. Santos, V. Moonsamy
+Privacy Enhancing Technologies Symposium <b>(PETS 2026)</b>
 
 <br>
 <b>[The Hidden Dangers of Public Serverless Repositories: An Empirical Security Assessment]()</b> <br>
