@@ -9,18 +9,18 @@ author_profile: true
 
 <br>
 <b>[Maia: A Hardware-software Hybrid Approach for Securing Serverless Workflows]()</b> <br>
-A. Pavoni, F. Pizzato, F. Rodriguez, <b>E. Marin</b>
+A. Pavoni, F. Pizzato, F. Rodriguez, <b>E. Marin</b>.
 Network and Distributed System Security Symposium <b>(NDSS 2026)</b>
 
 <br>
 <b>[StageRun: An Execution-Centric Runtime for In-Network Security Applications]()</b> <br>
-J. Veríssimo, <b>E. Marin</b>, N. Santos
+J. Veríssimo, <b>E. Marin</b>, N. Santos.
 Network and Distributed System Security Symposium <b>(NDSS 2026)</b>
 
 
 <br>
 <b>[Waterfall: A Capsule-Based Framework for Evaluating Traffic Watermarking in Anonymity Systems]()</b> <br>
-D. Mankowski, <b>E. Marin</b>, N. Santos, V. Moonsamy
+D. Mankowski, <b>E. Marin</b>, N. Santos, V. Moonsamy.
 Privacy Enhancing Technologies Symposium <b>(PETS 2026)</b>
 
 <br>
