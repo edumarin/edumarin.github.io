@@ -17,6 +17,16 @@ I am a Senior Research Scientist and Team Leader at [Telefonica Research](https:
 # Selected Publications
 
 <br>
+<b>[Maia: A Hardware-software Hybrid Approach for Securing Serverless Workflows]()</b> <br>
+A. Pavoni, F. Pizzato, F. Rodriguez, <b>E. Marin</b>
+Network and Distributed System Security Symposium <b>(NDSS 2026)</b>
+
+<br>
+<b>[StageRun: An Execution-Centric Runtime for In-Network Security Applications]()</b> <br>
+J. Veríssimo, <b>E. Marin</b>, N. Santos
+Network and Distributed System Security Symposium <b>(NDSS 2026)</b>
+
+<br>
 <b>[Waterfall: A Capsule-Based Framework for Evaluating Traffic Watermarking in Anonymity Systems]()</b> <br>
 D. Mankowski, <b>E. Marin</b>, N. Santos, V. Moonsamy
 Privacy Enhancing Technologies Symposium <b>(PETS 2026)</b>
@@ -65,13 +75,3 @@ ACM Conference on Computer and Communications Security <b>(CCS 2019)</b> (accept
 <b>[Fast, Furious and Insecure: Passive Keyless Entry and Start Systems in Modern Supercars](https://tches.iacr.org/index.php/TCHES/article/view/8289)</b> <br>
 L. Wouters, <b>E. Marin</b>, T. Ashur, B. Gierlichs and B. Preneel.
 Transactions on Cryptographic Hardware and Embedded Systems <b>(TCHES 2019)</b> ([Site](https://www.esat.kuleuven.be/cosic/passive-keyless-entry/)).
-
-<br>
-<b>[Physical-Layer Fingerprinting of LoRa devices using Supervised and Zero-Shot Learning](https://dl.acm.org/doi/10.1145/3098243.3098267)</b> <br>
-P. Robyns+, <b>E. Marin+</b>, W. Lamotte, P. Quax, D. Singelée and B. Preneel.
-ACM Conference on Security & Privacy in Wireless and Mobile Networks <b>(WiSec 2017)</b> (acceptance rate: 22%)
-
-<br>
-<b>[On the (in)security of the Latest Generation Implantable Cardiac Defibrillators](https://dl.acm.org/doi/10.1145/2991079.2991094)</b> <br>
-<b>E. Marin</b>, D. Singelée, F. Garcia, T. Chothia, R. Willems and B. Preneel.
-ACM Annual Computer Security Applications Conference <b>(ACSAC 2016)</b> (acceptance rate: 23%)
